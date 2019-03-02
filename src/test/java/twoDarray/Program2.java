@@ -63,7 +63,14 @@ public class Program2 {
         }
 
 
+// Model 3
 
+        int [][] value = {{1,2},{3,4}}; // value [0][1] 0=1,2 ; 1=3,4
+
+        System.out.println(value[0][0]);// 0
+        System.out.println(value[1][1]); // 1
+        System.out.println(value[0][1]); // 2
+        System.out.println(value[1][1]); // 3
 
     }
 }
