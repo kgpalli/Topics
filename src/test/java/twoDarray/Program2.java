@@ -72,5 +72,45 @@ public class Program2 {
         System.out.println(value[0][1]); // 2
         System.out.println(value[1][1]); // 3
 
+        // Jagged Array
+
+        String [][] str = new String[2][];
+
+        str[0] = new String[2];
+
+        str[0][0] = "cat";
+        str[0][1] = "dog";
+
+
+        str[1] = new String[3];
+
+        str[1][0] = "fish";
+        str[1][1] = "lizard";
+        str[1][2] = "bird";
+
+
+        for(String[] ele:str)
+        {
+            for(String element : ele){
+            System.out.print(element);
+            System.out.print(" ");}
+            System.out.println();
+        }
+
+//    3D ARRAY
+
+        byte[][][] space = new byte[3][3][3];
+
+        space[0][0][0] = 10;
+        space[1][1][1] = 20;
+        space[2][2][2] = 30;
+
+        System.out.println(space[0][0][0] );
+        System.out.println(space[1][1][1] );
+        System.out.println(space[2][2][2] );
+
+
+
+
     }
 }
