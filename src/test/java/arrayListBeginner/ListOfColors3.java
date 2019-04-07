@@ -5,9 +5,6 @@ import java.util.Collections;
 
 public class ListOfColors3 {
 
-
-
-
     public static void main(String[] args) {
 
         ArrayList<String> c1= new ArrayList<String>(3);
