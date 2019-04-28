@@ -4,6 +4,12 @@ import java.util.Scanner;
 
 public class WordsInCircular {
 
+    /*
+     * This method splits given string by space delimiter and returns a String
+     * array.
+     * Output: Selenium Easy Make
+     */
+
     public static void main(String[] args) {
 
       /*  Scanner sc = new Scanner(System.in)  ;
@@ -28,7 +34,7 @@ public class WordsInCircular {
                     {
                         System.out.print(inputArray[i]+" ");
                     }
-                    for(int k=0;k<index;k++)
+                    for(int k=0;k<index;k++) // it prints index 0
                     {
                         System.out.print(inputArray[k]+" "); // k prints Make
                     }

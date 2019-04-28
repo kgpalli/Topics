@@ -2,6 +2,8 @@ package makeSeleniumEasy;
 
 import java.util.Scanner;
 
+// first need to check whether the string has alphabets and numerics
+
 public class ExtractNumbersFromString {
     public static void main(String[] args) {
 
