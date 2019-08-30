@@ -3,6 +3,16 @@ package makeSeleniumEasy;
 public class EquiLateralTriangle {
 
     /*Solution:
+         *
+        * *
+       * * *
+      * * * *
+     * * * * *
+    * * * * * *
+   * * * * * * *
+  * * * * * * * *
+ * * * * * * * * *
+* * * * * * * * * *
 
     Number of stars in a row is equal to row number. For example: First row has one star, Second row has two stars and so on.
     We must need to decide number of spaces to be printed before printing first star in first row. It will help in drawing proper Equilateral Triangle.

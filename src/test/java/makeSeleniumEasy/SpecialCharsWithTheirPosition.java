@@ -20,16 +20,9 @@ public class SpecialCharsWithTheirPosition {
         {
             countOfSplChars = countOfSplChars+1;
 
-            System.out.println(userinput.charAt(m.start())+ " at position " +(m.start()+1)+ ".");
+            System.out.println(userinput.charAt(m.start())+ " at position " +(m.start()+1)+ "."); // m.start()) = locates special char, m.start()+1) = gives position
         }
         System.out.println("Total special characters found:"+countOfSplChars);
 
-
-
-
-
-
-
-
-    }
+        }
 }

@@ -2,18 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/matcher/UseMtaches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/nopatterns/Program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MSE2/InsertStringIntoAnotherStringWithStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chapter6/Mutant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/AlternateChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/ConditionalStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/DictionariesMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/EndOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/JavaLoops2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/JavaOutputFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CapitalizeCharOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CommoncharsInTwoStrings31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharWithoutIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/OccurenceOfChar26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintDistinctCharInString30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveDuplicateCharsFromWord28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveExtraWhiteSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/TrimSpace22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/miscillaneous/MtacherExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/miscillaneous/UniqueElementsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programmerExam/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/programmerExam/TestDogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/twoDarray/Program3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/arrayListBeginner/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/forloop1/AverageOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/forloop1/AverageOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/forloop1/printTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/forloop1/printTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/EquiLateralTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/EquiLateralTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ExtractNumbersFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ExtractNumbersFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/WordsInCircular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/WordsInCircular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FindDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FindDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FlyodTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FlyodTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SpecialCharsWithTheirPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SpecialCharsWithTheirPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/matcher/UseMtaches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programmerExam/Lambda1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/miscillaneous/DistinctCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miscillaneous/DistinctCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/miscillaneous/SwapIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miscillaneous/SwapIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/miscillaneous/VerifyPositiveNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/miscillaneous/VerifyPositiveNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop1/AverageOfTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/forloop1/AverageOfTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop1/printTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/forloop1/printTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/EquiLateralTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/EquiLateralTriangle.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ExtractNumbersFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ExtractNumbersFromString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/WordsInCircular.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/WordsInCircular.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/miscillaneous/DistinctCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/miscillaneous/DistinctCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FindDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FindDivisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FlyodTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FlyodTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/MissingAlphabets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/MissingAlphabets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/SpecialCharsWithTheirPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/SpecialCharsWithTheirPosition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/miscillaneous/SwapIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/miscillaneous/SwapIntegers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/miscillaneous/VerifyPositiveNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/miscillaneous/VerifyPositiveNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/strings/CountNoOfWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/strings/CountNoOfWords.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,20 +68,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Practice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/Practice.java">
+      <file leaf-file-name="AlternateChars.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/AlternateChars.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="15">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MissingAlphabets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java">
+      <file leaf-file-name="PrintThirdChar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/PrintThirdChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+            <state relative-caret-position="135">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,11 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpecialCharsWithTheirPosition.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SpecialCharsWithTheirPosition.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="1125">
+              <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DictionariesMaps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/DictionariesMaps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,65 +110,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UseMtaches.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/matcher/UseMtaches.java">
+      <file leaf-file-name="SummationWithRecursion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="349">
+              <caret line="52" column="108" selection-start-line="52" selection-start-column="108" selection-end-line="52" selection-end-column="108" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindDivisor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FindDivisor.java">
+      <file leaf-file-name="SummationWithRecursion2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="44" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="44" />
-            </state>
+            <state relative-caret-position="-399" />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PalindromeSeries.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PalindromeSeries.java">
+      <file leaf-file-name="ConditionalStatements.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/ConditionalStatements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="44" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LengthOfStringWithoutString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/LengthOfStringWithoutString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="47" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PositionOfLetterInAlphabet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PositionOfLetterInAlphabet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Pattern6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Pattern5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="60">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -136,57 +150,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/arrayListBeginner/LIstOfColors.java" />
-        <option value="$PROJECT_DIR$/src/test/java/arrayListBeginner/ListOfColours2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/arrayListBeginner/ListOfColors3.java" />
-        <option value="$PROJECT_DIR$/src/test/java/arrayListBeginner/ArrayToList.java" />
-        <option value="$PROJECT_DIR$/src/test/java/HashMap/ArrayListToMap.java" />
-        <option value="$PROJECT_DIR$/src/test/java/arrayListBeginner/Product.java" />
-        <option value="$PROJECT_DIR$/src/test/java/strings/ReverseStringWithStringReverse.java" />
-        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/SwapIntegers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/HashMap/MapWithWhile.java" />
-        <option value="$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java" />
-        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/PrimeNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/StringOrNumIsPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/ThreeLoops.java" />
-        <option value="$PROJECT_DIR$/src/test/java/strings/DuplicateCharacters.java" />
-        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/SecondHighest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/strings/RemoveWhiteSpaces.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PalindromeSeries.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/VerifyPalindromeStringInbuilt.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapWithoutThirdVariable.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FlyodTriangle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/OccuranceOfCharacter.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/EquiLateralTriangle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PositionOfLetterInAlphabet.java" />
-        <option value="$PROJECT_DIR$/src/test/java/nopatterns/Program2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/nopatterns/Program3.java" />
-        <option value="$PROJECT_DIR$/src/test/java/nopatterns/Pattern8.java" />
-        <option value="$PROJECT_DIR$/src/test/java/nopatterns/Pattern7.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintSpecialCharacters21.java" />
-        <option value="$PROJECT_DIR$/src/test/java/nopatterns/Program4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/nopatterns/Pattern9.java" />
-        <option value="$PROJECT_DIR$/src/test/java/nopatterns/Pattern21.java" />
-        <option value="$PROJECT_DIR$/src/test/java/nopatterns/Pattern6.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FindDivisor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/nopatterns/Program1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FibonacciSeriesUsingCollection.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FibonacciSeriesUsingRecursion.java" />
-        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/DistinctCharacters.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ExtractNumbersFromString.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/LengthOfStringWithoutString.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SplitString.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseEveryWordOfGroupOfString.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseEveryCharOfWordOfString.java" />
         <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseStringBYPositionOfWords.java" />
         <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/WordsInCircular.java" />
         <option value="$PROJECT_DIR$/src/test/java/nopatterns/Pattern5.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/Practice.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java" />
-        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SpecialCharsWithTheirPosition.java" />
         <option value="$PROJECT_DIR$/src/test/java/matcher/UseMtaches.java" />
+        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/MtacherExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/TrimSpace22.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveExtraWhiteSpace.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/OccurenceOfChar26.java" />
+        <option value="$PROJECT_DIR$/src/test/java/twoDarray/Program3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CommoncharsInTwoStrings.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CommoncharsInTwoStrings31.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintDistinctCharInString30.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveDuplicateCharsFromWord.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveDuplicateCharsFromWord28.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Dog.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programmerExam/Dog.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programmerExam/TestDogs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programmerExam/Lambda.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programmerExam/Lambda1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter6/Mutant.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MSE2/InsertStringIntoAnotherStringWithStringBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CapitalizeCharOfWords.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/EquiLateralTriangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ExtractNumbersFromString.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FindDivisor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FlyodTriangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable32.java" />
+        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/UniqueElementsInArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/SwapIntegers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/DistinctCharacters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/forloop1/AverageOfTwo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SpecialCharsWithTheirPosition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharWithoutIteration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java" />
+        <option value="$PROJECT_DIR$/src/test/java/miscillaneous/VerifyPositiveNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java" />
+        <option value="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/Practice.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/Operators.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/ConditionalStatements.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/classVSinstance.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/JavaOutputFormatting.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/JavaLoops2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/forloop1/printTable.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/EndOfLife.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/AlternateChars.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/PrintThirdChar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/DictionariesMaps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion2.java" />
       </list>
     </option>
   </component>
@@ -202,6 +216,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,18 +249,41 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="matcher" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Topics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Topics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="MSE2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Topics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Topics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programmerExam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Topics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Topics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="practi&#9;FILE&#9;file:///Users/kgollapa/IdeaProjects/PersonalProject/Topics/src/test/java/makeSeleniumEasy/Practice.java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -252,6 +291,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hackerrank" />
+      <recent name="miscillaneous" />
       <recent name="makeSeleniumEasy" />
     </key>
   </component>
@@ -267,58 +308,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpecialCharsWithTheirPosition">
-    <configuration name="LengthOfStringWithoutString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="makeSeleniumEasy.LengthOfStringWithoutString" />
+  <component name="RunManager" selected="Application.SummationWithRecursion2">
+    <configuration name="AlternateChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.AlternateChars" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="makeSeleniumEasy.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MissingAlphabets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="makeSeleniumEasy.MissingAlphabets" />
+    <configuration name="DictionariesMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.DictionariesMaps" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="makeSeleniumEasy.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PalindromeSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="makeSeleniumEasy.PalindromeSeries" />
+    <configuration name="PrintThirdChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.PrintThirdChar" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="makeSeleniumEasy.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="makeSeleniumEasy.Practice" />
+    <configuration name="SummationWithRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.SummationWithRecursion" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="makeSeleniumEasy.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SpecialCharsWithTheirPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="makeSeleniumEasy.SpecialCharsWithTheirPosition" />
+    <configuration name="SummationWithRecursion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.SummationWithRecursion2" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="makeSeleniumEasy.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,19 +406,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Practice" />
-      <item itemvalue="Application.PalindromeSeries" />
-      <item itemvalue="Application.LengthOfStringWithoutString" />
-      <item itemvalue="Application.MissingAlphabets" />
-      <item itemvalue="Application.SpecialCharsWithTheirPosition" />
+      <item itemvalue="Application.AlternateChars" />
+      <item itemvalue="Application.PrintThirdChar" />
+      <item itemvalue="Application.DictionariesMaps" />
+      <item itemvalue="Application.SummationWithRecursion" />
+      <item itemvalue="Application.SummationWithRecursion2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpecialCharsWithTheirPosition" />
-        <item itemvalue="Application.MissingAlphabets" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.LengthOfStringWithoutString" />
-        <item itemvalue="Application.PalindromeSeries" />
+        <item itemvalue="Application.SummationWithRecursion2" />
+        <item itemvalue="Application.SummationWithRecursion" />
+        <item itemvalue="Application.DictionariesMaps" />
+        <item itemvalue="Application.PrintThirdChar" />
+        <item itemvalue="Application.AlternateChars" />
       </list>
     </recent_temporary>
   </component>
@@ -392,42 +433,60 @@
       <option name="presentableId" value="Default" />
       <updated>1551554484645</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit this week changes">
+      <created>1556489023043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556489023043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit this week changes">
+      <created>1567199272079</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567199272079</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="1416" height="796" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32904148" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32904148" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32904148" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23580787" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20815139" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32904148" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32904148" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit this week changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit this week changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -456,304 +515,244 @@
           <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/TrimSpace22.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/TrimSpace22.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/TrimSpace22.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CommoncharsInTwoStrings31.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable32.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable32.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/miscillaneous/SwapIntegers.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/miscillaneous/SwapIntegers.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/miscillaneous/Fibonacci.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/miscillaneous/Fibonacci.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/PrintThirdChar.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java</url>
+          <line>8</line>
+          <properties class="MSE2.AnagramsUsingArrays" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="85" />
+      <option name="time" value="189" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>e=&quot;&quot;; o=&quot;&quot;;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>m.start();</expression-string>
+        <expression-string>n</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>System.out.printf(&quot;%d &quot;,i);</expression-string>
+        <expression-string>return n + Summation(n-1);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>str.charAt(m.start())</expression-string>
+        <expression-string>n + Summation(n-1)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(int)inputLetterToLowerCase</expression-string>
+        <expression-string>return n + Summation(n-1)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>secondLargest=num[i];</expression-string>
+        <expression-string>o=&quot;&quot;</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>num%i==0</expression-string>
+        <expression-string>e=&quot;&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>char []c = s[i].toCharArray();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>l=s[i].length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s[i]=sc.next()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/hashMapBeginner/MappingOfTheKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hashMapBeginner/SetEntireValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HashMap/ArrayListToMap.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseEveryCharOfWordOfString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrayListBeginner/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveExtraWhiteSpace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="48" />
+        <state relative-caret-position="165">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/strings/ReverseStringWithStringReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/strings/ReverseWithoutStringMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrayListBeginner/ArrayToList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrayListBeginner/LIstOfColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrayListBeginner/ListOfColors3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrayListBeginner/ListOfColours2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/SwapIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HashMap/MapWithWhile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/StringOrNumIsPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/UniqueElementsInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/ThreeLoops.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/SecondHighest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="83" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/strings/RemoveWhiteSpaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapWithoutThirdVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="44" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/strings/DuplicateCharacters.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/MSE2/InsertStringIntoAnotherStringWithStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        <state relative-caret-position="630">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FlyodTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/StringOrNumIsPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="43" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintSpecialCharacters21.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable32.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Pattern9.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Pattern21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Program1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Program2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Program3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="64" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Program4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Pattern7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Pattern8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FibonacciSeriesUsingRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/DistinctCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="74" lean-forward="true" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+        <state relative-caret-position="435">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/EquiLateralTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/forloop1/AverageOfTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FibonacciSeriesUsingCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="57" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ExtractNumbersFromString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -764,109 +763,288 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/VerifyPalindromeStringInbuilt.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapWithoutThirdVariable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseStringBYPositionOfWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseEveryCharOfWordOfString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Pattern5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nopatterns/Pattern6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PositionOfLetterInAlphabet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/LengthOfStringWithoutString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FindDivisor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PalindromeSeries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SpecialCharsWithTheirPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="345">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ExtractNumbersFromString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FibonacciSeriesUsingCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FindDivisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FibonacciSeriesUsingRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/LengthOfStringWithoutString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/conditions/Labeled_UnLabeled_Break.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/FindIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/SecondHighest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/SwapIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/VerifyPositiveNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/miscillaneous/MtacherExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintSpecialCharacters21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="77" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PalindromeSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/VerifyPalindromeStringInbuilt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CapitalizeCharOfWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CommoncharsInTwoStrings31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharWithoutIteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="46" column="11" lean-forward="true" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/Operators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/JavaOutputFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="48" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/JavaLoops2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/forloop1/printTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/EndOfLife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/DuplicateCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/RemoveWhiteSpaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="40" column="84" selection-start-line="40" selection-start-column="84" selection-end-line="40" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/ConditionalStatements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/PrintThirdChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/matcher/UseMtaches.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/AlternateChars.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="15">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="44" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/DictionariesMaps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="52" column="108" selection-start-line="52" selection-start-column="108" selection-end-line="52" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399" />
       </provider>
     </entry>
   </component>
@@ -927,7 +1105,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

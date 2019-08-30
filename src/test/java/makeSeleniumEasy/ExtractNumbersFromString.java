@@ -1,8 +1,10 @@
 package makeSeleniumEasy;
 
 import java.util.Scanner;
-
-// first need to check whether the string has alphabets and numerics
+/*
+Note : Character.getNumericValue is used to use exact value instead of ascii value
+first need to check whether the string has alphabets and numerics,than extract numbers and add
+ String = "hfghfgh54545",  "%dhfjf78",  "%^&amp"*/
 
 public class ExtractNumbersFromString {
     public static void main(String[] args) {

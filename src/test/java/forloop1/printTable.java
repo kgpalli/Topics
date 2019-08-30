@@ -21,5 +21,14 @@ public class printTable {
        int table= printTable.process(number);
 
 
+       int n = 2;
+
+        for(int i=1;i<11;i++)
+        {
+            int result = n*i;
+            System.out.println(n + " * " + i +" = " + result);
+        }
+
+
     }
 }

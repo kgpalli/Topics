@@ -42,7 +42,7 @@ System.out.println(count+1);
 
         HashMap<String , Integer> wordrepeat = new HashMap<String,Integer>();
 
-        String str1 = "This this is is done by Saket Saket";
+        String str1 = "This this is is is is done by Saket Saket";
 
         String [] split1 = str1.split(" ");// "" = char by char split , " " = word by word split
         for(int i=0;i<split1.length;i++)
@@ -55,6 +55,7 @@ System.out.println(count+1);
             {
                 wordrepeat.put(split1[i],1);
             }
+
         }
         System.out.println(wordrepeat);
 

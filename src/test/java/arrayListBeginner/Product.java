@@ -56,7 +56,7 @@ public class Product {
 
            System.out.println("Generated map " +map1);
 
-// Using Lambda expression
+// Using Lambda1 expression
 
         }
 
