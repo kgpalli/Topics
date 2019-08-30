@@ -11,8 +11,5 @@ public class AverageOfTwo {
 
         System.out.println(result);
 
-
-
-
-    }
+        }
 }

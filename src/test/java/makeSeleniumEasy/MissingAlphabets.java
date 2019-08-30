@@ -32,7 +32,6 @@ public class MissingAlphabets {
 
         System.out.println(set2 + "Missing alphabets ");
 
-
         // OR
 
         String alphabets = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -62,6 +61,15 @@ public class MissingAlphabets {
 // if you want to store in arraylist or some other collection class u can do that i am just printing
             }
         }
+
+        /*
+        str.split(" "); splits words
+        str.split(); doesn't split
+        str.split(""); splits character
+        str.split(" ", 3); splits 3 letter words
+        str.split("o"); removes "o"
+
+        * */
 
     }
 }

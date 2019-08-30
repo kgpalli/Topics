@@ -27,7 +27,7 @@ public class DistinctCharacters {
 
         }
 
-        System.out.println(str);
+        System.out.println(str); // it will have empty string
 
 
         //  SOLUTION 2

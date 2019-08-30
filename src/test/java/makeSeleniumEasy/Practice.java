@@ -1,31 +1,58 @@
 package makeSeleniumEasy;
 
 
-import java.util.HashMap;
+import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Practice {
-  /* 7
-           7 6
-           7 6 5
-           7 6 5 4
-           7 6 5 4 3
-           7 6 5 4 3 2
-           7 6 5 4 3 2 1*/
 
     public static void main(String[] args) {
 
+        String str = "racecar";
+        char[] ch = str.toCharArray();
 
-        int num = 25;
+StringBuilder sb = new StringBuilder();
 
-        for(int i=1;i<num;i++)
+        for(int i=0;i<str.length();i++)
         {
-            if(num%i==0)
+            for(int j=i+1;j<str.length();j++)
             {
-                System.out.println(i);
+                if(str.charAt(i)==str.charAt(j))
+                {
+                   if(str.charAt(i)==str.charAt(j))
+                   {
+                       System.out.println(str.charAt(j));
+                   }
+                }
             }
+        }
+
+        Set<Character> charset = new HashSet<>();
+
+        for(Character c : ch)
+        {
+            charset.add(c);
+        }
+
+        for(Character cc: charset)
+        {
+           sb.append(Character.toString(cc));
+
+        }
+
+System.out.println("After modifying string " + sb);
+
         }
 
 
 
-    }
 }
+
+    // Java
+// Java . a
+
+// J == 1 = No ==> 0
+// ava , a
+// a==a , 1
+// va , a
