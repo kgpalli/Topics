@@ -8,7 +8,7 @@ public class CapitalizeCharOfWords {
      * Now extract first character of first word and check if it is not uppercase already.
      * If it is not, convert first char to upper case and append remaining characters of word. we can use subString method.
      * If it is already in uppercase, append entire word. AT last append a whitespace. Repeat the same for all words.
-     *
+     *   Ans : MakeSeleniumEasy123
      * @param args
      */
 

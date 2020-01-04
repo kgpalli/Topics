@@ -2,6 +2,11 @@ package makeSeleniumEasy;
 
 import java.util.Scanner;
 
+/*
+* Input - java is a language
+* Output - language a is java
+ * */
+
 public class ReverseStringBYPositionOfWords {
 
     public static String[]splitStringBySpace(String inputStringToSplit)
