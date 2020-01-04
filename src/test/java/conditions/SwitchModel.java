@@ -15,6 +15,7 @@ public class SwitchModel {
         {
             number = number-4;
 
+
         }case 3:
         {
             number = number/3;

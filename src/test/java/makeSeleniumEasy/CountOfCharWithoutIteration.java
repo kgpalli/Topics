@@ -8,13 +8,22 @@ public class CountOfCharWithoutIteration {
     Replace desired char by empty character.
     Find the length of string after replacement.
     FInd the difference between initial and current length.
-    The difference is occurrence of asked char in string.*/
+    The difference is occurrence of asked char in string.
+    Result:
+    Please enter the string :
+Autoation Tester
+Please enter the char to find occurrence in : Autoation Tester
+T
+You entered: Autoation Tester
+Char to be found: T
+Count of T is :4
+*/
 
 
 
     public static void main(String[] args) {
 
-String str = "Autoation Tester";
+String str = "Automation Tester";
 
 System.out.println(str.length());
 

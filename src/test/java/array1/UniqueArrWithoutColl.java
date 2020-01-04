@@ -5,6 +5,7 @@ public class UniqueArrWithoutColl {
     /*
      * Since we need to check for duplicate chars in word, we must need to extract
      * each char of word. And the best way is to convert in to char array.
+     * Ans : abc
      */
 
     public static void main(String[] args) {
