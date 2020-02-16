@@ -2,91 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/forloop2/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/ExtractIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/SubArrayWithGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/AreAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/CompareSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/InheritenceII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/MyRejex21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/RejexDuplicateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/StringIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/StringTokens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/SyntaxChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/abstractPr/AbstractPr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/AbstrtactWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/CalenderPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Cats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Difference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Dogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/ExceptionsPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/LibraryCatalogue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/TwoDArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerrank/Writer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniuEasy2/CheckArraySortedOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/InvertCaseOfString_36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/array1/ArrayToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/RightRotateTheElementsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/StringSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/execptionHandling/ExceptionPr1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/execptionHandling/ExceptionPr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/interfacePR/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/javaAdvanced/TestVarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/javaAdvanced/WelcomeJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/InstanceOFTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/IteratorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/overridePr/Sports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/overridePr/SuperPr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/array1/UniqueArrWithColl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/array1/UniqueArrWithColl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/array1/UniqueArrWithoutColl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/array1/UniqueArrWithoutColl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/chapter6/Mutant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/conditions/SwitchModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/conditions/SwitchModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HashMap/ArrayListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HashMap/ArrayListToMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/ArrayToList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/LIstOfColors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/ListOfColors3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/ListOfColours2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/InheritenceII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/InheritenceII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/StringTokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/StringTokens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/abstractPr/AbstractPr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/abstractPr/AbstractPr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CapitalizeCharOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CapitalizeCharOfWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharWithoutIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharWithoutIteration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ExtractNumbersFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ExtractNumbersFromString4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/OccurenceOfChar26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/OccurenceOfChar_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PalindromeSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PalindromeNumber1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PositionOfLetterInAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PositionOfLetterInAlphabet_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintDistinctCharInString30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintDistinctCharInString_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintSpecialCharacters21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintSpecialCharacters_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveDuplicateCharsFromWord28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveDuplicateCharsFromWord_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseStringBYPositionOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseStringBYPositionOfWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable_32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapWithoutThirdVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapWithoutThirdVariable_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/WordsInCircular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/WordsInCircular_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/array1/UniqueArrWithColl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/array1/UniqueArrWithColl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/array1/UniqueArrWithoutColl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/array1/UniqueArrWithoutColl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/chapter6/Mutant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/conditions/SwitchModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/conditions/SwitchModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharWithoutIteration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharWithoutIteration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharsInString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ExtractNumbersFromString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/OccurenceOfChar26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PalindromeSeries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PositionOfLetterInAlphabet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PrintDistinctCharInString30.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PrintSpecialCharacters21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/RemoveDuplicateCharsFromWord28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ReverseStringBYPositionOfWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ReverseStringBYPositionOfWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable32.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/SwapWithoutThirdVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/WordsInCircular.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nopatterns/Pattern21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nopatterns/Pattern5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nopatterns/Pattern6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nopatterns/Pattern7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nopatterns/Pattern8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nopatterns/Pattern9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nopatterns/Program1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nopatterns/Program2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nopatterns/Program3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nopatterns/Program4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/map2/Pairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/map2/Pairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Program1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Program2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Program3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Program4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayListBeginner/ArrayToList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayListBeginner/LIstOfColors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayListBeginner/ListOfColors3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayListBeginner/ListOfColours2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayListBeginner/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/InheritenceII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/AbstractPr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/AbstractPr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/MyBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/MyBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/checkInhertience.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharsInString_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharsInString_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/map2/Pairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/map2/Pairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/strings/CountNoOfWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/strings/CountNoOfWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/twoDarray/Program1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/twoDarray/Program2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/twoDarray/Program3.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +66,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -127,19 +98,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hackerRank2.execptionHandling" />
       <recent name="hackerrank" />
       <recent name="miscillaneous" />
       <recent name="makeSeleniumEasy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AbstractPr">
-    <configuration name="AbstractPr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerRank2.abstractPr.AbstractPr" />
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.ArrayToString" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerRank2.abstractPr.*" />
+          <option name="PATTERN" value="array1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,13 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RejexDuplicateWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerRank2.RejexDuplicateWords" />
+    <configuration name="CountOfCharsInString_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="makeSeleniumEasy.CountOfCharsInString_8" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerRank2.abstractPr.*" />
+          <option name="PATTERN" value="makeSeleniumEasy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,13 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTokens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerRank2.StringTokens" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank2.Practice" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerRank2.abstractPr.*" />
+          <option name="PATTERN" value="hackerRank2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,13 +147,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyntaxChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerRank2.SyntaxChecker" />
+    <configuration name="RightRotateTheElementsInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.RightRotateTheElementsInArray" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerRank2.abstractPr.*" />
+          <option name="PATTERN" value="geeksforgeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map2.WordCount" />
+      <module name="Topics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,20 +177,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="checkInhertience" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerRank2.checkInhertience" />
-      <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerRank2.abstractPr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -226,19 +198,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringTokens" />
-      <item itemvalue="Application.SyntaxChecker" />
-      <item itemvalue="Application.RejexDuplicateWords" />
-      <item itemvalue="Application.checkInhertience" />
-      <item itemvalue="Application.AbstractPr" />
+      <item itemvalue="Application.Practice" />
+      <item itemvalue="Application.RightRotateTheElementsInArray" />
+      <item itemvalue="Application.CountOfCharsInString_8" />
+      <item itemvalue="Application.ArrayToString" />
+      <item itemvalue="Application.WordCount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AbstractPr" />
-        <item itemvalue="Application.checkInhertience" />
-        <item itemvalue="Application.RejexDuplicateWords" />
-        <item itemvalue="Application.SyntaxChecker" />
-        <item itemvalue="Application.StringTokens" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.ArrayToString" />
+        <item itemvalue="Application.CountOfCharsInString_8" />
+        <item itemvalue="Application.RightRotateTheElementsInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +239,44 @@
       <workItem from="1577485378106" duration="121000" />
       <workItem from="1577512556526" duration="2184000" />
       <workItem from="1577948271315" duration="436000" />
-      <workItem from="1578106981794" duration="274000" />
+      <workItem from="1578106981794" duration="1045000" />
+      <workItem from="1578108962626" duration="2896000" />
+      <workItem from="1578179521162" duration="2080000" />
+      <workItem from="1578263569161" duration="899000" />
+      <workItem from="1578373545310" duration="1352000" />
+      <workItem from="1578466681128" duration="724000" />
+      <workItem from="1578635265946" duration="1000" />
+      <workItem from="1578638724732" duration="1285000" />
+      <workItem from="1579330126699" duration="775000" />
+      <workItem from="1579460178359" duration="4967000" />
+      <workItem from="1579673697552" duration="4186000" />
+      <workItem from="1579710571725" duration="204000" />
+      <workItem from="1579801184594" duration="684000" />
+      <workItem from="1579801872164" duration="185000" />
+      <workItem from="1580192669667" duration="702000" />
+      <workItem from="1580277033179" duration="45000" />
+      <workItem from="1580277205222" duration="1113000" />
+      <workItem from="1580280819553" duration="2800000" />
+      <workItem from="1580316794573" duration="324000" />
+      <workItem from="1580333398342" duration="2000" />
+      <workItem from="1580707635344" duration="29000" />
+      <workItem from="1580707940718" duration="14000" />
+      <workItem from="1580745098696" duration="334000" />
+      <workItem from="1580747010805" duration="809000" />
+      <workItem from="1580769698555" duration="126000" />
+      <workItem from="1580770043729" duration="749000" />
+      <workItem from="1580777720709" duration="7524000" />
+      <workItem from="1580847370515" duration="2000" />
+      <workItem from="1581003723460" duration="298000" />
+      <workItem from="1581313050770" duration="6298000" />
+      <workItem from="1581365192335" duration="194000" />
+      <workItem from="1581370743863" duration="3144000" />
+      <workItem from="1581382568633" duration="1000" />
+      <workItem from="1581400619797" duration="5303000" />
+      <workItem from="1581451039196" duration="169000" />
+      <workItem from="1581484915590" duration="1930000" />
+      <workItem from="1581610198026" duration="784000" />
+      <workItem from="1581739021922" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="Commit this week changes">
       <created>1556489023043</created>
@@ -314,26 +323,87 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit this week changes" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="607" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1578109474697">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="607" y="208" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947@0.23.1680.947" timestamp="1578109474697" />
     <state x="567" y="385" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577513312338">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="567" y="385" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.947@0.23.1680.947" timestamp="1577513312338" />
-    <state width="1447" height="239" key="GridCell.Tab.0.bottom" timestamp="1577678326305">
+    <state x="287" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579464738765">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1577678326305" />
-    <state width="1447" height="239" key="GridCell.Tab.0.center" timestamp="1577678326305">
+    <state x="287" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.947@0.23.1680.947" timestamp="1579464738765" />
+    <state x="668" y="209" key="#xdebugger.evaluate" timestamp="1581373082703">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="668" y="209" key="#xdebugger.evaluate/0.23.1680.949@0.23.1680.949" timestamp="1581373082703" />
+    <state width="1447" height="239" key="GridCell.Tab.0.bottom" timestamp="1581610756611">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1580747765805" />
+    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1581610756611" />
+    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1581531726015" />
+    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1580779804760" />
+    <state width="1447" height="239" key="GridCell.Tab.0.center" timestamp="1581610756610">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1580747765805" />
+    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1581610756610" />
+    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1581531726014" />
+    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1580779804759" />
+    <state width="1447" height="239" key="GridCell.Tab.0.left" timestamp="1581610756610">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1580747765804" />
+    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1581610756610" />
+    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1581531726014" />
+    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1580779804759" />
+    <state width="1447" height="239" key="GridCell.Tab.0.right" timestamp="1581610756611">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1580747765805" />
+    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1581610756611" />
+    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1581531726015" />
+    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1580779804759" />
+    <state width="1447" height="296" key="GridCell.Tab.1.bottom" timestamp="1581438419509">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1447" height="296" key="GridCell.Tab.1.bottom/0.23.1680.947@0.23.1680.947" timestamp="1579709952325" />
+    <state width="1447" height="296" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1581438419509" />
+    <state width="1447" height="296" key="GridCell.Tab.1.bottom/0.23.1680.952@0.23.1680.952" timestamp="1580837977420" />
+    <state width="1447" height="296" key="GridCell.Tab.1.center" timestamp="1581438419509">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1447" height="296" key="GridCell.Tab.1.center/0.23.1680.947@0.23.1680.947" timestamp="1579709952324" />
+    <state width="1447" height="296" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1581438419509" />
+    <state width="1447" height="296" key="GridCell.Tab.1.center/0.23.1680.952@0.23.1680.952" timestamp="1580837977419" />
+    <state width="1447" height="296" key="GridCell.Tab.1.left" timestamp="1581438419508">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1447" height="296" key="GridCell.Tab.1.left/0.23.1680.947@0.23.1680.947" timestamp="1579709952324" />
+    <state width="1447" height="296" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1581438419508" />
+    <state width="1447" height="296" key="GridCell.Tab.1.left/0.23.1680.952@0.23.1680.952" timestamp="1580837977419" />
+    <state width="1447" height="296" key="GridCell.Tab.1.right" timestamp="1581438419509">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1579709952325" />
+    <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1581438419509" />
+    <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.952@0.23.1680.952" timestamp="1580837977420" />
+    <state x="451" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1579460178889">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1577678326305" />
-    <state width="1447" height="239" key="GridCell.Tab.0.left" timestamp="1577678326305">
+    <state x="451" y="330" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1579460178889" />
+    <state x="451" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.952@0.23.1680.952" timestamp="1578635264540" />
+    <state x="452" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580315759472">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1577678326305" />
-    <state width="1447" height="239" key="GridCell.Tab.0.right" timestamp="1577678326305">
+    <state x="452" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.947@0.23.1680.947" timestamp="1580315759472" />
+    <state x="459" y="239" width="670" height="676" key="search.everywhere.popup" timestamp="1578109093586">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1577678326305" />
+    <state x="459" y="239" width="670" height="676" key="search.everywhere.popup/0.23.1680.947@0.23.1680.947" timestamp="1578109093586" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -505,33 +575,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java</url>
-          <line>52</line>
+          <line>53</line>
           <option name="timeStamp" value="225" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java</url>
-          <line>47</line>
+          <line>48</line>
           <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java</url>
-          <line>59</line>
+          <line>60</line>
           <option name="timeStamp" value="227" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/strings/RemoveWhiteSpaces.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="228" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/strings/RemoveWhiteSpaces.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="229" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/StringTokens.java</url>
           <line>26</line>
           <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/IteratorMain.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/IteratorMain.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/IteratorMain.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="246" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java</url>
@@ -550,71 +625,23 @@
           <option name="timeStamp" value="207" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/StringSplit.java</url>
+          <line>7</line>
+          <properties class="geeksforgeeks.StringSplit" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>24</line>
+          <line>12</line>
           <properties class="hackerRank2.Practice" method="main">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="213" />
+          <option name="timeStamp" value="260" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateCodeFragment">
-      <expression>
-        <expression-string>e=&quot;&quot;; o=&quot;&quot;;</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>items</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>d[i]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>c[i]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>c[i] != d[i]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>a.charAt(i) ;</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>a</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>'A'</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>i</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>a.charAt(i)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="masterDetails">
     <states>

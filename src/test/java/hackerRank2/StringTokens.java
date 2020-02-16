@@ -24,7 +24,7 @@ public class StringTokens {
         Scanner sc = new Scanner(System.in);
 
         String s = sc.nextLine();
-        String [] items = s.trim().split("[ !,?.\\\\_'@]+");
+        String [] items = s.trim().split("[ !,?.\\\\_'@]+"); // + symbol helps to append the next word
 
         if (s == null || s.trim().equals(""))
         {

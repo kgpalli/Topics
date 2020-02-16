@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class Pairs {
     public static void main(String[]args)
     {
-        String [] strings = {"man", "moon", "main"};
+        String [] strings = {"Orange", "Mango", "Banana","Orange"};
 
         HashMap<String, String>map = new HashMap<>();
         for(int i=0;i<strings.length;i++)
