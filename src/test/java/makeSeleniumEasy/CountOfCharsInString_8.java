@@ -3,6 +3,10 @@ package makeSeleniumEasy;
 import java.util.*;
 
 public class CountOfCharsInString_8 {
+    /*
+    map value is : { =1, p=1, a=3, r=2, v=1, g=1, j=1, m=1, o=1}
+Duplicate chars are : [a, r]
+    * */
 
 
 

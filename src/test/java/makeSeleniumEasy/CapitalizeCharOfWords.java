@@ -38,7 +38,7 @@ public class CapitalizeCharOfWords {
                 sb.append(word.substring(0));
             }
 
-            sb.append("");
+                sb.append(""); // to add space between words
         }
         //
 

@@ -1,44 +1,39 @@
 package hackerRank2;
 
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.util.*;
+import java.util.regex.Pattern;
+import java.util.regex.PatternSyntaxException;
 
 
-public class Practice {
+ class Practice  {
 
-    static boolean isAnagram(String a, String b) {
+    public static void main(String[] args) {
 
-        int count =0;
-       a = a.toLowerCase();
-       b = b.toLowerCase();
-      if(a.length()==b.length())
-      {
-          return true;
-      }
-         return false;
-
+     int count =0;
+        String [] strings = {"c", "c", "c", "c"};
+        for(int i=0;i<strings.length;i++){
+            if(strings[i].equals("c")){
+                count++;
+                System.out.println(strings[i] + " = " +count);
+            }
 
         }
 
 
 
-    public static void main(String[] args) {
+       }
 
-       Scanner scan = new Scanner(System.in);
-       String a = scan.next();
-       String b = scan.next();
-       scan.close();
-
-
-boolean ret = isAnagram(a,b);
-
-System.out.println((ret)? "Anagrams":"Not Anagrams");
+    }
 
 
 
-   }
 
-   }
+
+
+
 
 
 

@@ -1,6 +1,7 @@
 package strings;
 
 import java.util.HashMap;
+// out put = {Saket=2, by=1, this=1, This=1, is=4, done=1}
 
 public class CountNoOfWords {
     public static void main(String[] args) {
