@@ -2,61 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/array1/ArrayToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/RightRotateTheElementsInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/StringSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/execptionHandling/ExceptionPr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/execptionHandling/ExceptionPr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/interfacePR/TestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/javaAdvanced/TestVarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/javaAdvanced/WelcomeJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/InstanceOFTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/IteratorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/overridePr/Sports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/overridePr/SuperPr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/phone/Android.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/phone/IOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/phone/OS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/phone/OperatingSystemFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/phone/Windows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/factorydesign/FactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/GenerateRandomString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/JavaConversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/ListInASingleLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/PrintEvenLengthWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/RemoveFirstElementFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/threadlocal/ThreadLocalPr1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/threadlocal/ThreadSafeFormatter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HashMap/ArrayListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HashMap/ArrayListToMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/ArrayToList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/LIstOfColors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/ListOfColors3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/ListOfColours2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arrayListBeginner/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/InheritenceII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/InheritenceII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/StringTokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/StringTokens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/abstractPr/AbstractPr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/abstractPr/AbstractPr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CapitalizeCharOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CapitalizeCharOfWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/map2/Pairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/map2/Pairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Pattern9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Program1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Program2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Program3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nopatterns/Program4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayListBeginner/ArrayToList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayListBeginner/LIstOfColors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayListBeginner/ListOfColors3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayListBeginner/ListOfColours2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayListBeginner/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/Adder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/InheritenceII.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/AbstractPr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/AbstractPr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/MyBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/abstractPr/MyBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/checkInhertience.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharsInString_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharsInString_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/map2/Pairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/map2/Pairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/strings/CountNoOfWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/strings/CountNoOfWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/twoDarray/Program1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/twoDarray/Program2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/twoDarray/Program3.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,77 +69,7 @@
       <recent name="makeSeleniumEasy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.ArrayToString" />
-      <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountOfCharsInString_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="makeSeleniumEasy.CountOfCharsInString_8" />
-      <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="makeSeleniumEasy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerRank2.Practice" />
-      <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerRank2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RightRotateTheElementsInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.RightRotateTheElementsInArray" />
-      <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geeksforgeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map2.WordCount" />
-      <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="map2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphanumericString_thenCorrect">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -184,6 +79,101 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphabeticString_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geeksforgeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geeksforgeeks" />
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.GenerateRandomString" />
+      <option name="METHOD_NAME" value="givenUsingApache_whenGeneratingRandomAlphabeticString_thenCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphanumericString_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geeksforgeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geeksforgeeks" />
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.GenerateRandomString" />
+      <option name="METHOD_NAME" value="givenUsingApache_whenGeneratingRandomAlphanumericString_thenCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateRandomString.givenUsingApache_whenGeneratingRandomStringBounded_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geeksforgeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geeksforgeeks" />
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.GenerateRandomString" />
+      <option name="METHOD_NAME" value="givenUsingApache_whenGeneratingRandomStringBounded_thenCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphabeticString_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geeksforgeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geeksforgeeks" />
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.GenerateRandomString" />
+      <option name="METHOD_NAME" value="givenUsingJava8_whenGeneratingRandomAlphabeticString_thenCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphanumericString_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geeksforgeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geeksforgeeks" />
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.GenerateRandomString" />
+      <option name="METHOD_NAME" value="givenUsingJava8_whenGeneratingRandomAlphanumericString_thenCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -198,19 +188,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Practice" />
-      <item itemvalue="Application.RightRotateTheElementsInArray" />
-      <item itemvalue="Application.CountOfCharsInString_8" />
-      <item itemvalue="Application.ArrayToString" />
-      <item itemvalue="Application.WordCount" />
+      <item itemvalue="TestNG.GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphabeticString_thenCorrect" />
+      <item itemvalue="TestNG.GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphanumericString_thenCorrect" />
+      <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomStringBounded_thenCorrect" />
+      <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphabeticString_thenCorrect" />
+      <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphanumericString_thenCorrect" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.WordCount" />
-        <item itemvalue="Application.ArrayToString" />
-        <item itemvalue="Application.CountOfCharsInString_8" />
-        <item itemvalue="Application.RightRotateTheElementsInArray" />
+        <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphanumericString_thenCorrect" />
+        <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphabeticString_thenCorrect" />
+        <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomStringBounded_thenCorrect" />
+        <item itemvalue="TestNG.GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphanumericString_thenCorrect" />
+        <item itemvalue="TestNG.GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphabeticString_thenCorrect" />
       </list>
     </recent_temporary>
   </component>
@@ -277,6 +267,33 @@
       <workItem from="1581484915590" duration="1930000" />
       <workItem from="1581610198026" duration="784000" />
       <workItem from="1581739021922" duration="248000" />
+      <workItem from="1581835597952" duration="2017000" />
+      <workItem from="1581916549046" duration="121000" />
+      <workItem from="1581959478647" duration="699000" />
+      <workItem from="1582094550748" duration="1411000" />
+      <workItem from="1582096127791" duration="1531000" />
+      <workItem from="1582305905093" duration="2000" />
+      <workItem from="1582315827720" duration="3000" />
+      <workItem from="1582519386911" duration="293000" />
+      <workItem from="1582519717941" duration="561000" />
+      <workItem from="1582560041748" duration="1997000" />
+      <workItem from="1583214787744" duration="1037000" />
+      <workItem from="1583277127490" duration="528000" />
+      <workItem from="1583278376385" duration="2799000" />
+      <workItem from="1583282057929" duration="477000" />
+      <workItem from="1583337486086" duration="4661000" />
+      <workItem from="1583386952531" duration="1947000" />
+      <workItem from="1583431667540" duration="3000" />
+      <workItem from="1583563064151" duration="151000" />
+      <workItem from="1583563548574" duration="2704000" />
+      <workItem from="1583729284736" duration="806000" />
+      <workItem from="1583904415296" duration="992000" />
+      <workItem from="1584911973295" duration="477000" />
+      <workItem from="1584912896802" duration="77000" />
+      <workItem from="1584913545317" duration="1000" />
+      <workItem from="1585631019755" duration="2377000" />
+      <workItem from="1585895679031" duration="78000" />
+      <workItem from="1586038838212" duration="3853000" />
     </task>
     <task id="LOCAL-00001" summary="Commit this week changes">
       <created>1556489023043</created>
@@ -295,26 +312,6 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Practice_enableData - 2019.10.02 at 21h 53m 45s.xml">
-      <configuration name="Practice.enableData" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Practice_enableData - 2019.10.02 at 21h 54m 01s.xml">
-      <configuration name="Practice.enableData" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Practice_enableData - 2019.10.02 at 21h 56m 15s.xml">
-      <configuration name="Practice.enableData" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Practice_enableData - 2019.10.02 at 21h 57m 08s.xml">
-      <configuration name="Practice.enableData" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Practice_enableData - 2019.10.02 at 21h 57m 38s.xml">
-      <configuration name="Practice.enableData" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Practice_enableData - 2019.10.02 at 21h 59m 11s.xml">
-      <configuration name="Practice.enableData" configurationId="TestNG" />
-    </history-entry>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -323,10 +320,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit this week changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="607" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1578109474697">
+    <state x="607" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1582129543485">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state x="607" y="208" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947@0.23.1680.947" timestamp="1578109474697" />
+    <state x="607" y="208" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947@0.23.1680.947" timestamp="1582129543485" />
     <state x="567" y="385" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577513312338">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
@@ -335,75 +332,93 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="287" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.947@0.23.1680.947" timestamp="1579464738765" />
-    <state x="668" y="209" key="#xdebugger.evaluate" timestamp="1581373082703">
+    <state x="668" y="209" key="#xdebugger.evaluate" timestamp="1586042028859">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state x="668" y="209" key="#xdebugger.evaluate/0.23.1680.949@0.23.1680.949" timestamp="1581373082703" />
-    <state width="1447" height="239" key="GridCell.Tab.0.bottom" timestamp="1581610756611">
+    <state x="668" y="209" key="#xdebugger.evaluate/0.23.1680.947@0.23.1680.947" timestamp="1583564119453" />
+    <state x="668" y="209" key="#xdebugger.evaluate/0.23.1680.949@0.23.1680.949" timestamp="1586042028859" />
+    <state x="379" y="103" key="CommitChangelistDialog2" timestamp="1586043413011">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1580747765805" />
-    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1581610756611" />
-    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1581531726015" />
+    <state x="379" y="103" key="CommitChangelistDialog2/0.23.1680.949@0.23.1680.949" timestamp="1586043413011" />
+    <state width="1497" height="240" key="GridCell.Tab.0.bottom" timestamp="1586042792526">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1583729935934" />
+    <state width="1497" height="240" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1586042792526" />
+    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585633811417" />
     <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1580779804760" />
-    <state width="1447" height="239" key="GridCell.Tab.0.center" timestamp="1581610756610">
+    <state width="1497" height="240" key="GridCell.Tab.0.center" timestamp="1586042792526">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1580747765805" />
-    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1581610756610" />
-    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1581531726014" />
+    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1583729935932" />
+    <state width="1497" height="240" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1586042792526" />
+    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585633811416" />
     <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1580779804759" />
-    <state width="1447" height="239" key="GridCell.Tab.0.left" timestamp="1581610756610">
+    <state width="1497" height="240" key="GridCell.Tab.0.left" timestamp="1586042792525">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1580747765804" />
-    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1581610756610" />
-    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1581531726014" />
+    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1583729935930" />
+    <state width="1497" height="240" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1586042792525" />
+    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585633811416" />
     <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1580779804759" />
-    <state width="1447" height="239" key="GridCell.Tab.0.right" timestamp="1581610756611">
+    <state width="1497" height="240" key="GridCell.Tab.0.right" timestamp="1586042792526">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1580747765805" />
-    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1581610756611" />
-    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1581531726015" />
+    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1583729935933" />
+    <state width="1497" height="240" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1586042792526" />
+    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1585633811416" />
     <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1580779804759" />
-    <state width="1447" height="296" key="GridCell.Tab.1.bottom" timestamp="1581438419509">
+    <state width="1497" height="297" key="GridCell.Tab.1.bottom" timestamp="1586042038332">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1447" height="296" key="GridCell.Tab.1.bottom/0.23.1680.947@0.23.1680.947" timestamp="1579709952325" />
-    <state width="1447" height="296" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1581438419509" />
+    <state width="1447" height="296" key="GridCell.Tab.1.bottom/0.23.1680.947@0.23.1680.947" timestamp="1583564179898" />
+    <state width="1497" height="297" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1586042038332" />
     <state width="1447" height="296" key="GridCell.Tab.1.bottom/0.23.1680.952@0.23.1680.952" timestamp="1580837977420" />
-    <state width="1447" height="296" key="GridCell.Tab.1.center" timestamp="1581438419509">
+    <state width="1497" height="297" key="GridCell.Tab.1.center" timestamp="1586042038331">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1447" height="296" key="GridCell.Tab.1.center/0.23.1680.947@0.23.1680.947" timestamp="1579709952324" />
-    <state width="1447" height="296" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1581438419509" />
+    <state width="1447" height="296" key="GridCell.Tab.1.center/0.23.1680.947@0.23.1680.947" timestamp="1583564179898" />
+    <state width="1497" height="297" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1586042038331" />
     <state width="1447" height="296" key="GridCell.Tab.1.center/0.23.1680.952@0.23.1680.952" timestamp="1580837977419" />
-    <state width="1447" height="296" key="GridCell.Tab.1.left" timestamp="1581438419508">
+    <state width="1497" height="297" key="GridCell.Tab.1.left" timestamp="1586042038331">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1447" height="296" key="GridCell.Tab.1.left/0.23.1680.947@0.23.1680.947" timestamp="1579709952324" />
-    <state width="1447" height="296" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1581438419508" />
+    <state width="1447" height="296" key="GridCell.Tab.1.left/0.23.1680.947@0.23.1680.947" timestamp="1583564179897" />
+    <state width="1497" height="297" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1586042038331" />
     <state width="1447" height="296" key="GridCell.Tab.1.left/0.23.1680.952@0.23.1680.952" timestamp="1580837977419" />
-    <state width="1447" height="296" key="GridCell.Tab.1.right" timestamp="1581438419509">
+    <state width="1497" height="297" key="GridCell.Tab.1.right" timestamp="1586042038332">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1579709952325" />
-    <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1581438419509" />
+    <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1583564179898" />
+    <state width="1497" height="297" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1586042038332" />
     <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.952@0.23.1680.952" timestamp="1580837977420" />
-    <state x="451" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1579460178889">
+    <state x="369" y="239" key="Vcs.Push.Dialog.v2" timestamp="1586042826574">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="369" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.949@0.23.1680.949" timestamp="1586042826574" />
+    <state width="744" height="453" key="XDebugger.FullValuePopup" timestamp="1583279847685">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state x="451" y="330" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1579460178889" />
+    <state width="744" height="453" key="XDebugger.FullValuePopup/0.23.1680.947@0.23.1680.947" timestamp="1583279847685" />
+    <state x="590" y="282" key="chooseDestDirectoryDialog" timestamp="1581837406825">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="590" y="282" key="chooseDestDirectoryDialog/0.23.1680.947@0.23.1680.947" timestamp="1581837406825" />
+    <state x="451" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1583337486895">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="451" y="330" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1583337486895" />
     <state x="451" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.952@0.23.1680.952" timestamp="1578635264540" />
-    <state x="452" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580315759472">
+    <state x="452" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581959844015">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state x="452" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.947@0.23.1680.947" timestamp="1580315759472" />
-    <state x="459" y="239" width="670" height="676" key="search.everywhere.popup" timestamp="1578109093586">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state x="452" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.947@0.23.1680.947" timestamp="1581959844015" />
+    <state x="459" y="239" width="670" height="678" key="search.everywhere.popup" timestamp="1583345510925">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state x="459" y="239" width="670" height="676" key="search.everywhere.popup/0.23.1680.947@0.23.1680.947" timestamp="1578109093586" />
+    <state x="459" y="239" width="670" height="676" key="search.everywhere.popup/0.23.1680.947@0.23.1680.947" timestamp="1582129249303" />
+    <state x="459" y="239" width="670" height="678" key="search.everywhere.popup/0.23.1680.949@0.23.1680.949" timestamp="1583345510925" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -608,6 +623,61 @@
           <line>20</line>
           <option name="timeStamp" value="246" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/threadlocal/ThreadLocalPr1.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/threadlocal/ThreadLocalPr1.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/GenerateRandomString.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/GenerateRandomString.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java</url>
           <line>8</line>
@@ -634,11 +704,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>12</line>
+          <line>18</line>
           <properties class="hackerRank2.Practice" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/threadlocal/ThreadLocalPr1.java</url>
+          <line>46</line>
+          <properties class="threadlocal.NewThread" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="263" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
