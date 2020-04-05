@@ -1,27 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phone/Android.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phone/IOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phone/OS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phone/OperatingSystemFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phone/Windows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/factorydesign/FactoryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/GenerateRandomString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/JavaConversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/ListInASingleLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/PasswordValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/PrintEvenLengthWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/RemoveFirstElementFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/threadlocal/ThreadLocalPr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/threadlocal/ThreadSafeFormatter.java" afterDir="false" />
+    <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="Commit this week changes  - April 04th">
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/HandlePageElements.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MSE2/InsertStringIntoAnotherStringWithStringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/FactorialNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/MaxNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/PowerOfInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/PrintNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/ReverseInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/SumOfEvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CapitalizeCharOfWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CommoncharsInTwoStrings31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharWithoutIteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString_8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/EquiLateralTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ExtractNumbersFromString4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FibonacciSeriesUsingCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FibonacciSeriesUsingRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FindDivisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FlyodTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/InvertCaseOfString_36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/LengthOfStringWithoutString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/OccurenceOfChar_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PalindromeNumber1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PositionOfLetterInAlphabet_11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintDistinctCharInString_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintSpecialCharacters_21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveDuplicateCharsFromWord_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveExtraWhiteSpace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseEveryCharOfWordOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseStringBYPositionOfWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SpecialCharsWithTheirPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapWithoutThirdVariable_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/TrimSpace22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/VerifyPalindromeStringInbuilt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/WordsInCircular_9.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +76,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -293,7 +312,11 @@
       <workItem from="1584913545317" duration="1000" />
       <workItem from="1585631019755" duration="2377000" />
       <workItem from="1585895679031" duration="78000" />
-      <workItem from="1586038838212" duration="3853000" />
+      <workItem from="1586038838212" duration="4240000" />
+      <workItem from="1586043793745" duration="72000" />
+      <workItem from="1586043896349" duration="71000" />
+      <workItem from="1586044275042" duration="36000" />
+      <workItem from="1586044328680" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="Commit this week changes">
       <created>1556489023043</created>
@@ -309,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567199272079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit this week changes  - April 04th">
+      <created>1586043453408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586043453408</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +347,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit this week changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit this week changes" />
+    <MESSAGE value="Commit this week changes  - April 04th" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit this week changes  - April 04th" />
   </component>
   <component name="WindowStateProjectService">
     <state x="607" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1582129543485">
@@ -337,10 +368,14 @@
     </state>
     <state x="668" y="209" key="#xdebugger.evaluate/0.23.1680.947@0.23.1680.947" timestamp="1583564119453" />
     <state x="668" y="209" key="#xdebugger.evaluate/0.23.1680.949@0.23.1680.949" timestamp="1586042028859" />
-    <state x="379" y="103" key="CommitChangelistDialog2" timestamp="1586043413011">
+    <state x="379" y="103" key="CommitChangelistDialog2" timestamp="1586043452676">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state x="379" y="103" key="CommitChangelistDialog2/0.23.1680.949@0.23.1680.949" timestamp="1586043413011" />
+    <state x="379" y="103" key="CommitChangelistDialog2/0.23.1680.949@0.23.1680.949" timestamp="1586043452676" />
+    <state x="563" y="377" key="Github.CreatePullRequestDialog" timestamp="1586043556042">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="563" y="377" key="Github.CreatePullRequestDialog/0.23.1680.949@0.23.1680.949" timestamp="1586043556042" />
     <state width="1497" height="240" key="GridCell.Tab.0.bottom" timestamp="1586042792526">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
@@ -393,10 +428,14 @@
     <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1583564179898" />
     <state width="1497" height="297" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1586042038332" />
     <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.952@0.23.1680.952" timestamp="1580837977420" />
-    <state x="369" y="239" key="Vcs.Push.Dialog.v2" timestamp="1586042826574">
+    <state x="257" y="81" key="SettingsEditor" timestamp="1586043957125">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state x="369" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.949@0.23.1680.949" timestamp="1586042826574" />
+    <state x="257" y="81" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1586043957125" />
+    <state x="369" y="239" key="Vcs.Push.Dialog.v2" timestamp="1586043501306">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="369" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.949@0.23.1680.949" timestamp="1586043501306" />
     <state width="744" height="453" key="XDebugger.FullValuePopup" timestamp="1583279847685">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
@@ -720,93 +759,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>groovy-2.5.2</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Topics</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
