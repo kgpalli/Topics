@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="Commit this week changes  - April 04th">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HashMap/ArrayListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HashMap/ArrayListToMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/array1/ArrayToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/array1/ArrayToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HashMap/ArrayListToMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HashMap/ArrayListToMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MSE2/AnagramsUsingArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MSE2/InsertStringIntoAnotherStringWithStringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/array1/ArrayToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/array1/ArrayToString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/FactorialNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/MaxNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/PowerOfInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/PrintNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/SumOfEvenOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CapitalizeCharOfWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CommoncharsInTwoStrings31.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharWithoutIteration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharsInString_8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/EquiLateralTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ExtractNumbersFromString4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FibonacciSeriesUsingCollection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FibonacciSeriesUsingRecursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FindDivisor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FlyodTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/InvertCaseOfString_36.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/LengthOfStringWithoutString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/MissingAlphabets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/OccurenceOfChar_26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PalindromeNumber1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PositionOfLetterInAlphabet_11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PrintDistinctCharInString_30.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PrintSpecialCharacters_21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/RemoveDuplicateCharsFromWord_28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/RemoveExtraWhiteSpace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ReverseEveryCharOfWordOfString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ReverseStringBYPositionOfWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/SpecialCharsWithTheirPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable_32.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/SwapWithoutThirdVariable_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/TrimSpace22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/VerifyPalindromeStringInbuilt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/WordsInCircular_9.class" beforeDir="false" />
-    </list>
+    <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="Commit this week changes  - April 04th" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -352,6 +308,7 @@
       <workItem from="1600142128172" duration="1264000" />
       <workItem from="1600144469681" duration="3035000" />
       <workItem from="1600403975492" duration="1046000" />
+      <workItem from="1600555833794" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="Commit this week changes">
       <created>1556489023043</created>
