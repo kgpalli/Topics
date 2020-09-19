@@ -1,51 +1,75 @@
 package hackerRank2;
 
-
-import com.phone.OperatingSystemFactory;
-import org.apache.commons.lang3.RandomStringUtils;
-
-import java.io.*;
-import java.nio.charset.Charset;
+import java.io.Serializable;
+import java.text.NumberFormat;
+import java.time.LocalDate;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import java.util.regex.PatternSyntaxException;
+/*
+*
+*
+*
+* */
+
+public class Practice {
 
 
- class Practice {
+    public static void main(String[] args){
+       Scanner sc = new Scanner(System.in);
+     String word1 = sc.next();
+     String word2 = sc.next();
+     char[]ch1 = word1.toCharArray();
+        char[]ch2 = word2.toCharArray();
+
+
+     HashMap<Character, Integer> map1 = new HashMap<>();
+        HashMap<Character, Integer> map2 = new HashMap<>();
+
+        for(char c : ch1)
+        {
+            if(map1.containsKey(c))
+            {
+                map1.put(c,map1.get(c)+1);
+            }else{
+                map1.put(c,1);
+            }
+        }
+        for(char c : ch2)
+        {
+            if(map2.containsKey(c))
+            {
+                map2.put(c,map2.get(c)+1);
+            }else{
+                map2.put(c,1);
+            }
+        }
+
+
+if(map1.equals(map2)){
+    System.out.println("Anagrams");
+}else{
+    System.out.println("Not Anagrams");
+}
 
 
 
-     public static void main(String[] args){
-
-        /* byte[] array = new byte[256];
-         new Random().nextBytes(array);
-         String randomString = new String(array, Charset.forName("UTF-8"));
-         StringBuffer r = new StringBuffer();
-         String AlphaNumericString = randomString.replaceAll("[^A-Za-z0-9]", "");
-
-         System.out.println(AlphaNumericString.length() + " lenght is ");
-
-         for (int k = 0; k < AlphaNumericString.length(); k++) {
-             r.append(AlphaNumericString.charAt(k));
-         }
-         System.out.println(r.toString());*/
-
-        int count=10;
-        String max_string= RandomStringUtils.randomAlphanumeric(count);
-
-        String s = "test";
-        StringBuilder sb = new StringBuilder(s);
 
 
 
-        String new_s = s+max_string;
-         System.out.println(new_s);
+}
 
 
 
-     }
- }
+
+
+}
+
+
+
+
+
+
+
+
 
 
 

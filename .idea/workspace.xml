@@ -2,45 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="Commit this week changes  - April 04th">
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/HandlePageElements.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MSE2/InsertStringIntoAnotherStringWithStringBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/FactorialNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/MaxNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/PowerOfInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/PrintNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/ReverseInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/forloop2/SumOfEvenOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CapitalizeCharOfWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CommoncharsInTwoStrings31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharWithoutIteration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CountOfCharsInString_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/EquiLateralTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ExtractNumbersFromString4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FibonacciSeriesUsingCollection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FibonacciSeriesUsingRecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FindDivisor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FlyodTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/InvertCaseOfString_36.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/LengthOfStringWithoutString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/MissingAlphabets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/OccurenceOfChar_26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PalindromeNumber1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PositionOfLetterInAlphabet_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintDistinctCharInString_30.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintSpecialCharacters_21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveDuplicateCharsFromWord_28.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/RemoveExtraWhiteSpace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseEveryCharOfWordOfString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseStringBYPositionOfWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SpecialCharsWithTheirPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable_32.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapWithoutThirdVariable_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/TrimSpace22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/VerifyPalindromeStringInbuilt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/makeSeleniumEasy/WordsInCircular_9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HashMap/ArrayListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HashMap/ArrayListToMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/array1/ArrayToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/array1/ArrayToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HashMap/ArrayListToMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HashMap/ArrayListToMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MSE2/AnagramsUsingArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MSE2/InsertStringIntoAnotherStringWithStringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/array1/ArrayToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/array1/ArrayToString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/FactorialNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/MaxNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/PowerOfInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/PrintNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/ReverseInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/forloop2/SumOfEvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hackerRank2/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hackerRank2/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CapitalizeCharOfWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CommoncharsInTwoStrings31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharWithoutIteration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/CountOfCharsInString_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/EquiLateralTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ExtractNumbersFromString4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FibonacciSeriesUsingCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FibonacciSeriesUsingRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FindDivisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/FlyodTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/InvertCaseOfString_36.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/LengthOfStringWithoutString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/MissingAlphabets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/OccurenceOfChar_26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PalindromeNumber1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PositionOfLetterInAlphabet_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PrintDistinctCharInString_30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/PrintSpecialCharacters_21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/RemoveDuplicateCharsFromWord_28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/RemoveExtraWhiteSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ReverseEveryCharOfWordOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/ReverseStringBYPositionOfWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/SpecialCharsWithTheirPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable_32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/SwapWithoutThirdVariable_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/TrimSpace22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/VerifyPalindromeStringInbuilt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/makeSeleniumEasy/WordsInCircular_9.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +83,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -88,7 +93,77 @@
       <recent name="makeSeleniumEasy" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphanumericString_thenCorrect">
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="Get123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingbat.warmup2.array1.Get123" />
+      <module name="Topics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingbat.warmup2.array1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank2.Practice" />
+      <module name="Topics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twoDarray.Program2" />
+      <module name="Topics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twoDarray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingbat.warmup2.array1.Sum2" />
+      <module name="Topics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingbat.warmup2.array1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miscillaneous.SwapIntegers" />
+      <module name="Topics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="miscillaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -98,101 +173,6 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphabeticString_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geeksforgeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geeksforgeeks" />
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.GenerateRandomString" />
-      <option name="METHOD_NAME" value="givenUsingApache_whenGeneratingRandomAlphabeticString_thenCorrect" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphanumericString_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geeksforgeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geeksforgeeks" />
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.GenerateRandomString" />
-      <option name="METHOD_NAME" value="givenUsingApache_whenGeneratingRandomAlphanumericString_thenCorrect" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenerateRandomString.givenUsingApache_whenGeneratingRandomStringBounded_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geeksforgeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geeksforgeeks" />
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.GenerateRandomString" />
-      <option name="METHOD_NAME" value="givenUsingApache_whenGeneratingRandomStringBounded_thenCorrect" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphabeticString_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geeksforgeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geeksforgeeks" />
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.GenerateRandomString" />
-      <option name="METHOD_NAME" value="givenUsingJava8_whenGeneratingRandomAlphabeticString_thenCorrect" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphanumericString_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geeksforgeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geeksforgeeks" />
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.GenerateRandomString" />
-      <option name="METHOD_NAME" value="givenUsingJava8_whenGeneratingRandomAlphanumericString_thenCorrect" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -207,19 +187,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphabeticString_thenCorrect" />
-      <item itemvalue="TestNG.GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphanumericString_thenCorrect" />
-      <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomStringBounded_thenCorrect" />
-      <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphabeticString_thenCorrect" />
-      <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphanumericString_thenCorrect" />
+      <item itemvalue="Application.Practice" />
+      <item itemvalue="Application.Get123" />
+      <item itemvalue="Application.Sum2" />
+      <item itemvalue="Application.Program2" />
+      <item itemvalue="Application.SwapIntegers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphanumericString_thenCorrect" />
-        <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomAlphabeticString_thenCorrect" />
-        <item itemvalue="TestNG.GenerateRandomString.givenUsingApache_whenGeneratingRandomStringBounded_thenCorrect" />
-        <item itemvalue="TestNG.GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphanumericString_thenCorrect" />
-        <item itemvalue="TestNG.GenerateRandomString.givenUsingJava8_whenGeneratingRandomAlphabeticString_thenCorrect" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.SwapIntegers" />
+        <item itemvalue="Application.Program2" />
+        <item itemvalue="Application.Sum2" />
+        <item itemvalue="Application.Get123" />
       </list>
     </recent_temporary>
   </component>
@@ -317,6 +297,61 @@
       <workItem from="1586043896349" duration="71000" />
       <workItem from="1586044275042" duration="36000" />
       <workItem from="1586044328680" duration="99000" />
+      <workItem from="1586044501553" duration="445000" />
+      <workItem from="1586069663917" duration="18000" />
+      <workItem from="1586145668207" duration="2852000" />
+      <workItem from="1586202398204" duration="2000" />
+      <workItem from="1586225735018" duration="1701000" />
+      <workItem from="1586300947433" duration="589000" />
+      <workItem from="1586408864434" duration="101000" />
+      <workItem from="1586730087979" duration="2000" />
+      <workItem from="1587191658595" duration="171000" />
+      <workItem from="1587191890783" duration="385000" />
+      <workItem from="1587329673220" duration="2167000" />
+      <workItem from="1587444683978" duration="3417000" />
+      <workItem from="1587485056996" duration="653000" />
+      <workItem from="1588571130629" duration="1146000" />
+      <workItem from="1588650601939" duration="1163000" />
+      <workItem from="1589061314430" duration="12779000" />
+      <workItem from="1589171414388" duration="2894000" />
+      <workItem from="1589176173164" duration="1261000" />
+      <workItem from="1589769891881" duration="579000" />
+      <workItem from="1589776415119" duration="113000" />
+      <workItem from="1589931709013" duration="3279000" />
+      <workItem from="1590300057603" duration="1606000" />
+      <workItem from="1590302147252" duration="8000" />
+      <workItem from="1590302403799" duration="17000" />
+      <workItem from="1591070254441" duration="3027000" />
+      <workItem from="1591573452798" duration="6429000" />
+      <workItem from="1592721088347" duration="4760000" />
+      <workItem from="1592978305702" duration="905000" />
+      <workItem from="1593062474784" duration="3130000" />
+      <workItem from="1593202789745" duration="1000" />
+      <workItem from="1593582191807" duration="1021000" />
+      <workItem from="1593640508671" duration="2000" />
+      <workItem from="1594614788476" duration="2510000" />
+      <workItem from="1594704554245" duration="1755000" />
+      <workItem from="1594876998437" duration="1681000" />
+      <workItem from="1595052904867" duration="1219000" />
+      <workItem from="1595054965455" duration="96000" />
+      <workItem from="1595203447650" duration="108000" />
+      <workItem from="1595302198713" duration="610000" />
+      <workItem from="1595636533104" duration="98000" />
+      <workItem from="1595739333093" duration="260000" />
+      <workItem from="1595739605500" duration="466000" />
+      <workItem from="1595913565126" duration="112000" />
+      <workItem from="1595996705702" duration="813000" />
+      <workItem from="1596435702072" duration="833000" />
+      <workItem from="1598648309751" duration="303000" />
+      <workItem from="1598976640297" duration="117000" />
+      <workItem from="1599002623352" duration="3686000" />
+      <workItem from="1599459325417" duration="903000" />
+      <workItem from="1599546190842" duration="751000" />
+      <workItem from="1599632027934" duration="1174000" />
+      <workItem from="1599719396095" duration="43000" />
+      <workItem from="1600142128172" duration="1264000" />
+      <workItem from="1600144469681" duration="3035000" />
+      <workItem from="1600403975492" duration="1046000" />
     </task>
     <task id="LOCAL-00001" summary="Commit this week changes">
       <created>1556489023043</created>
@@ -339,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586043453408</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit this week changes  - April 04th">
+      <created>1586044664907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586044664907</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,113 +393,64 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit this week changes  - April 04th" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="607" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1582129543485">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state x="668" y="210" key="#xdebugger.evaluate" timestamp="1600147580861">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="607" y="208" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947@0.23.1680.947" timestamp="1582129543485" />
-    <state x="567" y="385" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577513312338">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state x="668" y="209" key="#xdebugger.evaluate/0.23.1680.949@0.23.1680.949" timestamp="1594878730415" />
+    <state x="668" y="210" key="#xdebugger.evaluate/0.23.1680.952@0.23.1680.952" timestamp="1594618939823" />
+    <state x="668" y="210" key="#xdebugger.evaluate/0.23.1680.954@0.23.1680.954" timestamp="1600147580861" />
+    <state width="1611" height="240" key="GridCell.Tab.0.bottom" timestamp="1600409230714">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="567" y="385" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.947@0.23.1680.947" timestamp="1577513312338" />
-    <state x="287" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579464738765">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="1611" height="297" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1599633065910" />
+    <state width="1611" height="240" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1599581408479" />
+    <state width="1611" height="240" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1600409230714" />
+    <state width="1611" height="240" key="GridCell.Tab.0.center" timestamp="1600409230713">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="287" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.947@0.23.1680.947" timestamp="1579464738765" />
-    <state x="668" y="209" key="#xdebugger.evaluate" timestamp="1586042028859">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state width="1611" height="297" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1599633065908" />
+    <state width="1611" height="240" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1599581408478" />
+    <state width="1611" height="240" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1600409230713" />
+    <state width="1611" height="240" key="GridCell.Tab.0.left" timestamp="1600409230713">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="668" y="209" key="#xdebugger.evaluate/0.23.1680.947@0.23.1680.947" timestamp="1583564119453" />
-    <state x="668" y="209" key="#xdebugger.evaluate/0.23.1680.949@0.23.1680.949" timestamp="1586042028859" />
-    <state x="379" y="103" key="CommitChangelistDialog2" timestamp="1586043452676">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state width="1611" height="297" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1599633065908" />
+    <state width="1611" height="240" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1599581408478" />
+    <state width="1611" height="240" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1600409230713" />
+    <state width="1611" height="240" key="GridCell.Tab.0.right" timestamp="1600409230714">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="379" y="103" key="CommitChangelistDialog2/0.23.1680.949@0.23.1680.949" timestamp="1586043452676" />
-    <state x="563" y="377" key="Github.CreatePullRequestDialog" timestamp="1586043556042">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state width="1611" height="297" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1599633065909" />
+    <state width="1611" height="240" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1599581408479" />
+    <state width="1611" height="240" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1600409230714" />
+    <state width="1611" height="297" key="GridCell.Tab.1.bottom" timestamp="1600147857653">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="563" y="377" key="Github.CreatePullRequestDialog/0.23.1680.949@0.23.1680.949" timestamp="1586043556042" />
-    <state width="1497" height="240" key="GridCell.Tab.0.bottom" timestamp="1586042792526">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state width="1611" height="297" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1599633065912" />
+    <state width="1611" height="297" key="GridCell.Tab.1.bottom/0.23.1680.952@0.23.1680.952" timestamp="1599459645282" />
+    <state width="1611" height="297" key="GridCell.Tab.1.bottom/0.23.1680.954@0.23.1680.954" timestamp="1600147857653" />
+    <state width="1611" height="297" key="GridCell.Tab.1.center" timestamp="1600147857652">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1583729935934" />
-    <state width="1497" height="240" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1586042792526" />
-    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585633811417" />
-    <state width="1447" height="239" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1580779804760" />
-    <state width="1497" height="240" key="GridCell.Tab.0.center" timestamp="1586042792526">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state width="1611" height="297" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1599633065911" />
+    <state width="1611" height="297" key="GridCell.Tab.1.center/0.23.1680.952@0.23.1680.952" timestamp="1599459645282" />
+    <state width="1611" height="297" key="GridCell.Tab.1.center/0.23.1680.954@0.23.1680.954" timestamp="1600147857652" />
+    <state width="1611" height="297" key="GridCell.Tab.1.left" timestamp="1600147857652">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1583729935932" />
-    <state width="1497" height="240" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1586042792526" />
-    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585633811416" />
-    <state width="1447" height="239" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1580779804759" />
-    <state width="1497" height="240" key="GridCell.Tab.0.left" timestamp="1586042792525">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state width="1611" height="297" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1599633065910" />
+    <state width="1611" height="297" key="GridCell.Tab.1.left/0.23.1680.952@0.23.1680.952" timestamp="1599459645281" />
+    <state width="1611" height="297" key="GridCell.Tab.1.left/0.23.1680.954@0.23.1680.954" timestamp="1600147857652" />
+    <state width="1611" height="297" key="GridCell.Tab.1.right" timestamp="1600147857653">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1583729935930" />
-    <state width="1497" height="240" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1586042792525" />
-    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585633811416" />
-    <state width="1447" height="239" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1580779804759" />
-    <state width="1497" height="240" key="GridCell.Tab.0.right" timestamp="1586042792526">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state width="1611" height="297" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1599633065912" />
+    <state width="1611" height="297" key="GridCell.Tab.1.right/0.23.1680.952@0.23.1680.952" timestamp="1599459645282" />
+    <state width="1611" height="297" key="GridCell.Tab.1.right/0.23.1680.954@0.23.1680.954" timestamp="1600147857653" />
+    <state x="355" y="137" key="SettingsEditor" timestamp="1600144778794">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1583729935933" />
-    <state width="1497" height="240" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1586042792526" />
-    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1585633811416" />
-    <state width="1447" height="239" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1580779804759" />
-    <state width="1497" height="297" key="GridCell.Tab.1.bottom" timestamp="1586042038332">
-      <screen x="0" y="23" width="1680" height="949" />
-    </state>
-    <state width="1447" height="296" key="GridCell.Tab.1.bottom/0.23.1680.947@0.23.1680.947" timestamp="1583564179898" />
-    <state width="1497" height="297" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1586042038332" />
-    <state width="1447" height="296" key="GridCell.Tab.1.bottom/0.23.1680.952@0.23.1680.952" timestamp="1580837977420" />
-    <state width="1497" height="297" key="GridCell.Tab.1.center" timestamp="1586042038331">
-      <screen x="0" y="23" width="1680" height="949" />
-    </state>
-    <state width="1447" height="296" key="GridCell.Tab.1.center/0.23.1680.947@0.23.1680.947" timestamp="1583564179898" />
-    <state width="1497" height="297" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1586042038331" />
-    <state width="1447" height="296" key="GridCell.Tab.1.center/0.23.1680.952@0.23.1680.952" timestamp="1580837977419" />
-    <state width="1497" height="297" key="GridCell.Tab.1.left" timestamp="1586042038331">
-      <screen x="0" y="23" width="1680" height="949" />
-    </state>
-    <state width="1447" height="296" key="GridCell.Tab.1.left/0.23.1680.947@0.23.1680.947" timestamp="1583564179897" />
-    <state width="1497" height="297" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1586042038331" />
-    <state width="1447" height="296" key="GridCell.Tab.1.left/0.23.1680.952@0.23.1680.952" timestamp="1580837977419" />
-    <state width="1497" height="297" key="GridCell.Tab.1.right" timestamp="1586042038332">
-      <screen x="0" y="23" width="1680" height="949" />
-    </state>
-    <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1583564179898" />
-    <state width="1497" height="297" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1586042038332" />
-    <state width="1447" height="296" key="GridCell.Tab.1.right/0.23.1680.952@0.23.1680.952" timestamp="1580837977420" />
-    <state x="257" y="81" key="SettingsEditor" timestamp="1586043957125">
-      <screen x="0" y="23" width="1680" height="949" />
-    </state>
-    <state x="257" y="81" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1586043957125" />
-    <state x="369" y="239" key="Vcs.Push.Dialog.v2" timestamp="1586043501306">
-      <screen x="0" y="23" width="1680" height="949" />
-    </state>
-    <state x="369" y="239" key="Vcs.Push.Dialog.v2/0.23.1680.949@0.23.1680.949" timestamp="1586043501306" />
-    <state width="744" height="453" key="XDebugger.FullValuePopup" timestamp="1583279847685">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state width="744" height="453" key="XDebugger.FullValuePopup/0.23.1680.947@0.23.1680.947" timestamp="1583279847685" />
-    <state x="590" y="282" key="chooseDestDirectoryDialog" timestamp="1581837406825">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="590" y="282" key="chooseDestDirectoryDialog/0.23.1680.947@0.23.1680.947" timestamp="1581837406825" />
-    <state x="451" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1583337486895">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="451" y="330" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1583337486895" />
-    <state x="451" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.952@0.23.1680.952" timestamp="1578635264540" />
-    <state x="452" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581959844015">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="452" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.947@0.23.1680.947" timestamp="1581959844015" />
-    <state x="459" y="239" width="670" height="678" key="search.everywhere.popup" timestamp="1583345510925">
-      <screen x="0" y="23" width="1680" height="949" />
-    </state>
-    <state x="459" y="239" width="670" height="676" key="search.everywhere.popup/0.23.1680.947@0.23.1680.947" timestamp="1582129249303" />
-    <state x="459" y="239" width="670" height="678" key="search.everywhere.popup/0.23.1680.949@0.23.1680.949" timestamp="1583345510925" />
+    <state x="355" y="137" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1600144778794" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -673,11 +666,6 @@
           <option name="timeStamp" value="262" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="265" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
           <line>41</line>
           <option name="timeStamp" value="266" />
@@ -717,10 +705,25 @@
           <line>59</line>
           <option name="timeStamp" value="275" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java</url>
           <line>8</line>
-          <properties class="MSE2.AnagramsUsingArrays" method="main">
+          <properties class="MSE2.AnagramsUsingArrays">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="110" />
@@ -740,14 +743,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="247" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>18</line>
-          <properties class="hackerRank2.Practice" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="260" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/threadlocal/ThreadLocalPr1.java</url>

@@ -12,7 +12,7 @@ public class ArrayToString {
         for(int i=0;i<n;i++){
 
             newArr[i] = arr[i];
-            newArr[n] = arr[x];
+            newArr[n] = x;
 
         }
         return newArr;
@@ -28,10 +28,6 @@ public class ArrayToString {
         int i;
         int arr2[] = {1,2,3,4,5,6,7,8,9,10};
 
-        // print the original array
-        for( i=0;i<arr2.length;i++){
-            System.out.print( Arrays.toString(arr2));
-        }
 
         // element to be added
         int x = 50;
@@ -39,7 +35,7 @@ public class ArrayToString {
         // call the method to add x in arr
         arr2 = addX(n, arr2, x);
 
-        System.out.println(Arrays.asList(arr2));
+        System.out.println(Arrays.toString(arr2));
 
 
 
