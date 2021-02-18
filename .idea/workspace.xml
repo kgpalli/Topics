@@ -22,7 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="Commit this week changes  - April 04th" />
+    <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="Commit this week changes  - April 04th">
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/ClimbingStairs.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +90,9 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="LeetCode" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="hackerRank2.execptionHandling" />
       <recent name="hackerrank" />
@@ -92,9 +100,9 @@
       <recent name="makeSeleniumEasy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClimbingStairs">
+  <component name="RunManager" selected="Application.MergeSortedArray">
     <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClimbingStairs" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ClimbingStairs" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -108,6 +116,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="miscillaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.MergeSortedArray" />
+      <module name="Topics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,20 +153,6 @@
     </configuration>
     <configuration name="SinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structres.SinglyLinkedList" />
-      <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structres.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structres.Stack" />
       <module name="Topics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -183,16 +191,16 @@
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.Practice" />
       <item itemvalue="Application.SinglyLinkedList" />
-      <item itemvalue="Application.Stack" />
       <item itemvalue="Application.ClimbingStairs" />
+      <item itemvalue="Application.MergeSortedArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.ClimbingStairs" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.SinglyLinkedList" />
-        <item itemvalue="Application.Stack" />
       </list>
     </recent_temporary>
   </component>
@@ -388,16 +396,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit this week changes  - April 04th" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="573" y="181" key="#xdebugger.evaluate" timestamp="1613542443535">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="480" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1613628405988">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="480" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.808@0.23.1440.808" timestamp="1613628405988" />
+    <state x="573" y="180" key="#xdebugger.evaluate" timestamp="1613631548724">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="573" y="179" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1609199319615" />
     <state x="573" y="179" key="#xdebugger.evaluate/0.23.1440.798@0.23.1440.798" timestamp="1608966010044" />
     <state x="573" y="180" key="#xdebugger.evaluate/0.23.1440.801@0.23.1440.801" timestamp="1607842146087" />
     <state x="573" y="180" key="#xdebugger.evaluate/0.23.1440.804@0.23.1440.804" timestamp="1613363052956" />
-    <state x="573" y="180" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1613539020440" />
+    <state x="573" y="180" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1613631548724" />
     <state x="573" y="181" key="#xdebugger.evaluate/0.23.1440.811@0.23.1440.811" timestamp="1613542443535" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom" timestamp="1613544895777">
+    <state width="1358" height="234" key="GridCell.Tab.0.bottom" timestamp="1613631575697">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="1358" height="234" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1609268100281" />
@@ -405,9 +417,9 @@
     <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1609918089335" />
     <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1613367179915" />
     <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1613373952708" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1613544895777" />
+    <state width="1358" height="234" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1613631575697" />
     <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1613543922240" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center" timestamp="1613544895777">
+    <state width="1358" height="234" key="GridCell.Tab.0.center" timestamp="1613631575696">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="1358" height="234" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1609268100280" />
@@ -415,9 +427,9 @@
     <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1609918089335" />
     <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1613367179914" />
     <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1613373952706" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1613544895777" />
+    <state width="1358" height="234" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1613631575696" />
     <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1613543922239" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left" timestamp="1613544895776">
+    <state width="1358" height="234" key="GridCell.Tab.0.left" timestamp="1613631575696">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="1358" height="234" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1609268100280" />
@@ -425,9 +437,9 @@
     <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1609918089334" />
     <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1613367179914" />
     <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1613373952705" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1613544895776" />
+    <state width="1358" height="234" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1613631575696" />
     <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1613543922238" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right" timestamp="1613544895777">
+    <state width="1358" height="234" key="GridCell.Tab.0.right" timestamp="1613631575697">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="1358" height="234" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1609268100280" />
@@ -435,43 +447,43 @@
     <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1609918089335" />
     <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1613367179914" />
     <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1613373952707" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1613544895777" />
+    <state width="1358" height="234" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1613631575697" />
     <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1613543922239" />
-    <state width="1358" height="234" key="GridCell.Tab.1.bottom" timestamp="1613543922235">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1358" height="234" key="GridCell.Tab.1.bottom" timestamp="1613631575698">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1609268100282" />
     <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1608966148494" />
     <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1608670171297" />
     <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1613364534568" />
-    <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1613539023841" />
+    <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1613631575698" />
     <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1613543922235" />
-    <state width="1358" height="234" key="GridCell.Tab.1.center" timestamp="1613543922234">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1358" height="234" key="GridCell.Tab.1.center" timestamp="1613631575697">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1609268100281" />
     <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1608966148493" />
     <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1608670171297" />
     <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1613364534568" />
-    <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1613539023840" />
+    <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1613631575697" />
     <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1613543922234" />
-    <state width="1358" height="234" key="GridCell.Tab.1.left" timestamp="1613543922234">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1358" height="234" key="GridCell.Tab.1.left" timestamp="1613631575697">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1609268100281" />
     <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1608966148493" />
     <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1608670171297" />
     <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1613364534568" />
-    <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1613539023840" />
+    <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1613631575697" />
     <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1613543922234" />
-    <state width="1358" height="234" key="GridCell.Tab.1.right" timestamp="1613543922235">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1358" height="234" key="GridCell.Tab.1.right" timestamp="1613631575697">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1609268100282" />
     <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1608966148494" />
     <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1608670171297" />
     <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1613364534568" />
-    <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1613539023840" />
+    <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1613631575697" />
     <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1613543922235" />
     <state x="304" y="23" key="SettingsEditor" timestamp="1607065831501">
       <screen x="0" y="23" width="1440" height="801" />
@@ -756,6 +768,36 @@
           <line>19</line>
           <option name="timeStamp" value="346" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/MergeSortedArray.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/MergeSortedArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/MergeSortedArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/MergeSortedArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/MergeSortedArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/MergeSortedArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java</url>
           <line>8</line>
@@ -767,7 +809,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/hackerrank/LinkedList.java</url>
           <line>96</line>
-          <properties class="hackerrank.LinkedList" method="show">
+          <properties class="hackerrank.LinkedList">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="207" />
@@ -775,7 +817,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/StringSplit.java</url>
           <line>7</line>
-          <properties class="geeksforgeeks.StringSplit" method="main">
+          <properties class="geeksforgeeks.StringSplit">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="247" />
@@ -783,7 +825,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/threadlocal/ThreadLocalPr1.java</url>
           <line>46</line>
-          <properties class="threadlocal.NewThread" method="&lt;init&gt;">
+          <properties class="threadlocal.NewThread">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="263" />
