@@ -1,38 +1,47 @@
+import javax.swing.*;
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 
 public class Practice {
 
+    public static int singleNumber(int[] nums) {
 
 
-    public static void main(String[]args){
-    String s = "abcdablsdh".toLowerCase();
+      if(nums.length ==1){
+          return nums[0];
+      }
+        int i=0;
+        int j=i+1;
 
-        Set<Character> set = new HashSet<>();
+        while(i<nums.length){
 
-        String sub_string="";
-        String max_sub = "";
-        for(int i=0;i<s.length();i++) {
-            for (int j = i; j < s.length(); j++) {
-                char ch = s.charAt(j);
-                if (set.contains(ch)) {
-                    break;
-                }
-                sub_string += ch;
-                set.add(ch);
-
+            int single_digit = 0;
+            while(j<nums.length-1){
+                if(nums[i]==nums[j])
+                {single_digit++;
+                break;}
+                j++;
             }
 
-            if (sub_string.length() > max_sub.length()) {
-                max_sub = sub_string;
+            if(single_digit==0)
+            {
+                return nums[i];
             }
-            sub_string = "";
-            set.clear();
+            i++;
 
         }
 
+       return 0;
+    }
 
-        System.out.println(max_sub);
+
+
+    public static void main(String[]args){
+   int []nums = {1};
+
+   System.out.println(singleNumber(nums));
 
 
 
