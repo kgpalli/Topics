@@ -1,9 +1,9 @@
-package LeetCode.easy1_30;
+package LeetCode.BST;
 
 public class ArrayToBST {
 
 
-    public static TreeNode sortedArrayToBST(int[] nums) {
+    public static Node sortedArrayToBST(int[] nums) {
 
         if(nums == null || nums.length==0){
             return null;
@@ -11,14 +11,14 @@ public class ArrayToBST {
          return constructBSTRecursive(nums, 0, nums.length-1);
     }
 
-    public static TreeNode constructBSTRecursive(int[]nums, int left, int right){
+    public static Node constructBSTRecursive(int[]nums, int left, int right){
 
         if(left>right){
             return null;
         }
 
         int mid = left+(right-left)/2;
-        TreeNode current = new TreeNode(nums[mid]);
+        Node current = new Node(nums[mid]);
         current.left = constructBSTRecursive(nums,left,mid-1);
 
         current.right = constructBSTRecursive(nums, mid+1, right);
