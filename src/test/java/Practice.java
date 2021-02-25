@@ -39,10 +39,7 @@ public class Practice {
 
 
     public static void main(String[]args){
-   int []nums = {1};
-
-   System.out.println(singleNumber(nums));
-
+  String s = "abc";
 
 
     }
