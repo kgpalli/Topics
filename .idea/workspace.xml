@@ -22,17 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="Commit this week changes  - April 04th" />
-=======
-    <list default="true" id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="Commit this week changes  - April 04th">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/MaxDepthBst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/SameTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/BST/SymmetricTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/BST/SymmetricTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/BST/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/BST/TreeNode.class" afterDir="false" />
+    <list default="true" id="b99ddb5c-5299-451a-8d1c-a3d372bc9761" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/BalancedBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/MinDepthMst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/PathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
->>>>>>> 31a24176aada5f22efe477d6e3163c6caa750167
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,21 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GroovyConsoleState">
-    <option name="list">
-      <list>
-        <Entry>
-          <option name="moduleName" value="Topics" />
-          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
-        </Entry>
       </list>
     </option>
   </component>
@@ -66,50 +47,14 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="23" />
-    <option name="width" value="1416" />
-    <option name="height" value="796" />
-  </component>
-  <component name="ProjectId" id="1VaJfb7vYQ83OVH3ufRTkhMBuPc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="practi&#9;FILE&#9;file:///Users/kgollapa/IdeaProjects/PersonalProject/Topics/src/test/java/makeSeleniumEasy/Practice.java" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.48965517" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="LeetCode" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="hackerRank2.execptionHandling" />
-      <recent name="hackerrank" />
-      <recent name="miscillaneous" />
-      <recent name="makeSeleniumEasy" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.MaxDepthBst">
-    <configuration name="ColumnTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easy1_30.ColumnTitle" />
+  <component name="RunManager" selected="Application.PathSum">
+    <configuration name="BalancedBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.BalancedBT" />
       <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.BST.*" />
@@ -123,7 +68,6 @@
     <configuration name="MaxDepthBst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.BST.MaxDepthBst" />
       <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.BST.*" />
@@ -134,10 +78,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SameTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.SameTree" />
+    <configuration name="MinDepthMst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.MinDepthMst" />
       <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.BST.*" />
@@ -148,10 +91,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SymmetricTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.SymmetricTree" />
+    <configuration name="PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.PathSum" />
       <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.BST.*" />
@@ -162,232 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.TreeNode" />
-      <module name="Topics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.BST.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.ColumnTitle" />
-      <item itemvalue="Application.TreeNode" />
-      <item itemvalue="Application.SymmetricTree" />
-      <item itemvalue="Application.SameTree" />
-      <item itemvalue="Application.MaxDepthBst" />
-    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PathSum" />
+        <item itemvalue="Application.MinDepthMst" />
+        <item itemvalue="Application.BalancedBT" />
         <item itemvalue="Application.MaxDepthBst" />
-        <item itemvalue="Application.SameTree" />
-        <item itemvalue="Application.SymmetricTree" />
-        <item itemvalue="Application.TreeNode" />
-        <item itemvalue="Application.ColumnTitle" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="38a9e0fb-ae6c-40ac-aaa7-66c31a4ac7cb" name="Default" comment="" />
-      <created>1551554484645</created>
+      <changelist id="b99ddb5c-5299-451a-8d1c-a3d372bc9761" name="Default Changelist" comment="" />
+      <created>1614360999470</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551554484645</updated>
-      <workItem from="1577485378106" duration="121000" />
-      <workItem from="1577512556526" duration="2184000" />
-      <workItem from="1577948271315" duration="436000" />
-      <workItem from="1578106981794" duration="1045000" />
-      <workItem from="1578108962626" duration="2896000" />
-      <workItem from="1578179521162" duration="2080000" />
-      <workItem from="1578263569161" duration="899000" />
-      <workItem from="1578373545310" duration="1352000" />
-      <workItem from="1578466681128" duration="724000" />
-      <workItem from="1578635265946" duration="1000" />
-      <workItem from="1578638724732" duration="1285000" />
-      <workItem from="1579330126699" duration="775000" />
-      <workItem from="1579460178359" duration="4967000" />
-      <workItem from="1579673697552" duration="4186000" />
-      <workItem from="1579710571725" duration="204000" />
-      <workItem from="1579801184594" duration="684000" />
-      <workItem from="1579801872164" duration="185000" />
-      <workItem from="1580192669667" duration="702000" />
-      <workItem from="1580277033179" duration="45000" />
-      <workItem from="1580277205222" duration="1113000" />
-      <workItem from="1580280819553" duration="2800000" />
-      <workItem from="1580316794573" duration="324000" />
-      <workItem from="1580333398342" duration="2000" />
-      <workItem from="1580707635344" duration="29000" />
-      <workItem from="1580707940718" duration="14000" />
-      <workItem from="1580745098696" duration="334000" />
-      <workItem from="1580747010805" duration="809000" />
-      <workItem from="1580769698555" duration="126000" />
-      <workItem from="1580770043729" duration="749000" />
-      <workItem from="1580777720709" duration="7524000" />
-      <workItem from="1580847370515" duration="2000" />
-      <workItem from="1581003723460" duration="298000" />
-      <workItem from="1581313050770" duration="6298000" />
-      <workItem from="1581365192335" duration="194000" />
-      <workItem from="1581370743863" duration="3144000" />
-      <workItem from="1581382568633" duration="1000" />
-      <workItem from="1581400619797" duration="5303000" />
-      <workItem from="1581451039196" duration="169000" />
-      <workItem from="1581484915590" duration="1930000" />
-      <workItem from="1581610198026" duration="784000" />
-      <workItem from="1581739021922" duration="248000" />
-      <workItem from="1581835597952" duration="2017000" />
-      <workItem from="1581916549046" duration="121000" />
-      <workItem from="1581959478647" duration="699000" />
-      <workItem from="1582094550748" duration="1411000" />
-      <workItem from="1582096127791" duration="1531000" />
-      <workItem from="1582305905093" duration="2000" />
-      <workItem from="1582315827720" duration="3000" />
-      <workItem from="1582519386911" duration="293000" />
-      <workItem from="1582519717941" duration="561000" />
-      <workItem from="1582560041748" duration="1997000" />
-      <workItem from="1583214787744" duration="1037000" />
-      <workItem from="1583277127490" duration="528000" />
-      <workItem from="1583278376385" duration="2799000" />
-      <workItem from="1583282057929" duration="477000" />
-      <workItem from="1583337486086" duration="4661000" />
-      <workItem from="1583386952531" duration="1947000" />
-      <workItem from="1583431667540" duration="3000" />
-      <workItem from="1583563064151" duration="151000" />
-      <workItem from="1583563548574" duration="2704000" />
-      <workItem from="1583729284736" duration="806000" />
-      <workItem from="1583904415296" duration="992000" />
-      <workItem from="1584911973295" duration="477000" />
-      <workItem from="1584912896802" duration="77000" />
-      <workItem from="1584913545317" duration="1000" />
-      <workItem from="1585631019755" duration="2377000" />
-      <workItem from="1585895679031" duration="78000" />
-      <workItem from="1586038838212" duration="4240000" />
-      <workItem from="1586043793745" duration="72000" />
-      <workItem from="1586043896349" duration="71000" />
-      <workItem from="1586044275042" duration="36000" />
-      <workItem from="1586044328680" duration="99000" />
-      <workItem from="1586044501553" duration="445000" />
-      <workItem from="1586069663917" duration="18000" />
-      <workItem from="1586145668207" duration="2852000" />
-      <workItem from="1586202398204" duration="2000" />
-      <workItem from="1586225735018" duration="1701000" />
-      <workItem from="1586300947433" duration="589000" />
-      <workItem from="1586408864434" duration="101000" />
-      <workItem from="1586730087979" duration="2000" />
-      <workItem from="1587191658595" duration="171000" />
-      <workItem from="1587191890783" duration="385000" />
-      <workItem from="1587329673220" duration="2167000" />
-      <workItem from="1587444683978" duration="3417000" />
-      <workItem from="1587485056996" duration="653000" />
-      <workItem from="1588571130629" duration="1146000" />
-      <workItem from="1588650601939" duration="1163000" />
-      <workItem from="1589061314430" duration="12779000" />
-      <workItem from="1589171414388" duration="2894000" />
-      <workItem from="1589176173164" duration="1261000" />
-      <workItem from="1589769891881" duration="579000" />
-      <workItem from="1589776415119" duration="113000" />
-      <workItem from="1589931709013" duration="3279000" />
-      <workItem from="1590300057603" duration="1606000" />
-      <workItem from="1590302147252" duration="8000" />
-      <workItem from="1590302403799" duration="17000" />
-      <workItem from="1591070254441" duration="3027000" />
-      <workItem from="1591573452798" duration="6429000" />
-      <workItem from="1592721088347" duration="4760000" />
-      <workItem from="1592978305702" duration="905000" />
-      <workItem from="1593062474784" duration="3130000" />
-      <workItem from="1593202789745" duration="1000" />
-      <workItem from="1593582191807" duration="1021000" />
-      <workItem from="1593640508671" duration="2000" />
-      <workItem from="1594614788476" duration="2510000" />
-      <workItem from="1594704554245" duration="1755000" />
-      <workItem from="1594876998437" duration="1681000" />
-      <workItem from="1595052904867" duration="1219000" />
-      <workItem from="1595054965455" duration="96000" />
-      <workItem from="1595203447650" duration="108000" />
-      <workItem from="1595302198713" duration="610000" />
-      <workItem from="1595636533104" duration="98000" />
-      <workItem from="1595739333093" duration="260000" />
-      <workItem from="1595739605500" duration="466000" />
-      <workItem from="1595913565126" duration="112000" />
-      <workItem from="1595996705702" duration="813000" />
-      <workItem from="1596435702072" duration="833000" />
-      <workItem from="1598648309751" duration="303000" />
-      <workItem from="1598976640297" duration="117000" />
-      <workItem from="1599002623352" duration="3686000" />
-      <workItem from="1599459325417" duration="903000" />
-      <workItem from="1599546190842" duration="751000" />
-      <workItem from="1599632027934" duration="1174000" />
-      <workItem from="1599719396095" duration="43000" />
-      <workItem from="1600142128172" duration="1264000" />
-      <workItem from="1600144469681" duration="3035000" />
-      <workItem from="1600403975492" duration="1046000" />
-      <workItem from="1600555833794" duration="234000" />
+      <updated>1614360999470</updated>
     </task>
-    <task id="LOCAL-00001" summary="Commit this week changes">
-      <created>1556489023043</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1556489023043</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Commit this week changes">
-      <created>1567199272079</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1567199272079</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Commit this week changes  - April 04th">
-      <created>1586043453408</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1586043453408</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Commit this week changes  - April 04th">
-      <created>1586044664907</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1586044664907</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -399,498 +134,61 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit this week changes" />
-    <MESSAGE value="Commit this week changes  - April 04th" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit this week changes  - April 04th" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="322" width="479" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1614205636056">
+    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1614388780103">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="480" y="322" width="479" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.811@0.23.1440.811" timestamp="1614205636056" />
-    <state x="480" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1613628405988">
-      <screen x="0" y="23" width="1440" height="808" />
-    </state>
-    <state x="480" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.808@0.23.1440.808" timestamp="1613628405988" />
-    <state x="573" y="181" key="#xdebugger.evaluate" timestamp="1614037255857">
+    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.811@0.23.1440.811" timestamp="1614388780103" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1614388923856">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="573" y="179" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1609199319615" />
-    <state x="573" y="179" key="#xdebugger.evaluate/0.23.1440.798@0.23.1440.798" timestamp="1608966010044" />
-    <state x="573" y="180" key="#xdebugger.evaluate/0.23.1440.801@0.23.1440.801" timestamp="1607842146087" />
-    <state x="573" y="180" key="#xdebugger.evaluate/0.23.1440.804@0.23.1440.804" timestamp="1613363052956" />
-    <state x="573" y="180" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1613963702576" />
-    <state x="573" y="181" key="#xdebugger.evaluate/0.23.1440.811@0.23.1440.811" timestamp="1614037255857" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom" timestamp="1614296972158">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614388923856" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1614388923856">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="234" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1609268100281" />
-    <state width="1358" height="234" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1608966148493" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1609918089335" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1613367179915" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1613373952708" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1613964762934" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614296972158" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1614111531211" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center" timestamp="1614296972158">
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1614388923856" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1614388923855">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="234" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1609268100280" />
-    <state width="1358" height="234" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1608966148492" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1609918089335" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1613367179914" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1613373952706" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1613964762932" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1614296972158" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1614111531210" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left" timestamp="1614296972157">
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1614388923855" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1614388923856">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="234" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1609268100280" />
-    <state width="1358" height="234" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1608966148491" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1609918089334" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1613367179914" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1613373952705" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1613964762930" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1614296972157" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1614111531210" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right" timestamp="1614296972158">
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1614388923856" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1614388905582">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="234" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1609268100280" />
-    <state width="1358" height="234" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1608966148492" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1609918089335" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1613367179914" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1613373952707" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1613964762933" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1614296972158" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1614111531211" />
-    <state width="1358" height="234" key="GridCell.Tab.1.bottom" timestamp="1614296657768">
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614388905582" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1614388905581">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1609268100282" />
-    <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1608966148494" />
-    <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1608670171297" />
-    <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1613364534568" />
-    <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1613963711496" />
-    <state width="1358" height="234" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614296657768" />
-    <state width="1358" height="234" key="GridCell.Tab.1.center" timestamp="1614296657768">
+    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1614388905581" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1614388905581">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1609268100281" />
-    <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1608966148493" />
-    <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1608670171297" />
-    <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1613364534568" />
-    <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1613963711496" />
-    <state width="1358" height="234" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1614296657768" />
-    <state width="1358" height="234" key="GridCell.Tab.1.left" timestamp="1614296657768">
+    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1614388905581" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1614388905581">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1609268100281" />
-    <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1608966148493" />
-    <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1608670171297" />
-    <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1613364534568" />
-    <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1613963711495" />
-    <state width="1358" height="234" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1614296657768" />
-    <state width="1358" height="234" key="GridCell.Tab.1.right" timestamp="1614296657768">
+    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1614388905581" />
+    <state x="530" y="148" key="RollbackChangesDialog" timestamp="1614362323812">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1609268100282" />
-    <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1608966148494" />
-    <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1608670171297" />
-    <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1613364534568" />
-    <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1613963711496" />
-    <state width="1358" height="234" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1614296657768" />
-    <state x="304" y="23" key="SettingsEditor" timestamp="1607065831501">
-      <screen x="0" y="23" width="1440" height="801" />
-    </state>
-    <state x="304" y="23" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1607065831501" />
+    <state x="530" y="148" key="RollbackChangesDialog/0.23.1440.811@0.23.1440.811" timestamp="1614362323812" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/PrintSpecialCharacters_21.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="65" />
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/PathSum.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/FindDivisor.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseStringBYPositionOfWords.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/ReverseStringBYPositionOfWords.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/TrimSpace22.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/TrimSpace22.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/TrimSpace22.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/CommoncharsInTwoStrings31.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable_32.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/PathSum.java</url>
           <line>15</line>
-          <option name="timeStamp" value="119" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/makeSeleniumEasy/SwapTwoStringVariablesWitoutThirdVariable_32.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/miscillaneous/SwapIntegers.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/miscillaneous/SwapIntegers.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/PrintThirdChar.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="180" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="186" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="187" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/SummationWithRecursion.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="188" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/TwoDArrays.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="192" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/TwoDArrays.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="196" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/TwoDArrays.java</url>
-          <line>80</line>
-          <option name="timeStamp" value="197" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/TwoDArrays.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="198" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/TwoDArrays.java</url>
-          <line>89</line>
-          <option name="timeStamp" value="199" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/AbstrtactWriter.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="200" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/Reader.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="201" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/Writer.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="202" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/Node.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="206" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/LinkedList.java</url>
-          <line>101</line>
-          <option name="timeStamp" value="208" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/LinkedList.java</url>
-          <line>87</line>
-          <option name="timeStamp" value="209" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/Runner.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="210" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/ExceptionsPractice.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="211" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/ExceptionsPractice.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="212" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/CompareSubString.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="222" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="225" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="226" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/strings/CountNoOfWords.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="227" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/StringTokens.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="243" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/IteratorMain.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="244" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/IteratorMain.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="245" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/objectOrientedProgramms/IteratorMain.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="246" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/threadlocal/ThreadLocalPr1.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="261" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/threadlocal/ThreadLocalPr1.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="262" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="266" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="267" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="268" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="269" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="270" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/EmailIDExtraction.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="271" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/GenerateRandomString.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="274" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/GenerateRandomString.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="275" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="284" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>81</line>
-          <option name="timeStamp" value="285" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="306" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="307" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="308" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="340" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerRank2/Practice.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="346" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/IsSequence.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="355" />
-<<<<<<< HEAD
-=======
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/ValidPalindrome.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="372" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Practice.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="373" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Practice.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="374" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/TwoSumII.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="379" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/TwoSumII.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="380" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/TwoSumII.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="381" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/ColumnTitle.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="382" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/ColumnTitle.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="383" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/TreeNode.java</url>
-          <line>121</line>
-          <option name="timeStamp" value="384" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/TreeNode.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="385" />
->>>>>>> 31a24176aada5f22efe477d6e3163c6caa750167
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/TreeNode.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="386" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/MaxDepthBst.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="387" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/MaxDepthBst.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="388" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/MSE2/AnagramsUsingArrays.java</url>
-          <line>8</line>
-          <properties class="MSE2.AnagramsUsingArrays">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="110" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/hackerrank/LinkedList.java</url>
-          <line>96</line>
-          <properties class="hackerrank.LinkedList">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="207" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/geeksforgeeks/StringSplit.java</url>
-          <line>7</line>
-          <properties class="geeksforgeeks.StringSplit">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="247" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/threadlocal/ThreadLocalPr1.java</url>
-          <line>46</line>
-          <properties class="threadlocal.NewThread">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="263" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
