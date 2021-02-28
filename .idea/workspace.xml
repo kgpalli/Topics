@@ -23,10 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b99ddb5c-5299-451a-8d1c-a3d372bc9761" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/BalancedBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/MinDepthMst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/PathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/ExSheetColmnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/HappyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -47,17 +51,21 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1p4lM4JealxEO8RKHVmMZgC3mee" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.PathSum">
-    <configuration name="BalancedBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.BalancedBT" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.HappyNumber">
+    <configuration name="ExSheetColmnNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easy1_30.ExSheetColmnNumber" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.BST.*" />
+          <option name="PATTERN" value="LeetCode.easy1_30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +73,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDepthBst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.MaxDepthBst" />
+    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easy1_30.HappyNumber" />
+      <module name="Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.easy1_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.LinkedList" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -106,10 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HappyNumber" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.ExSheetColmnNumber" />
         <item itemvalue="Application.PathSum" />
         <item itemvalue="Application.MinDepthMst" />
-        <item itemvalue="Application.BalancedBT" />
-        <item itemvalue="Application.MaxDepthBst" />
       </list>
     </recent_temporary>
   </component>
@@ -134,44 +156,45 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1614388780103">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.811@0.23.1440.811" timestamp="1614388780103" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1614388923856">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1614495921088">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614388923856" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1614388923856">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614495921088" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1614495921087">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1614388923856" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1614388923855">
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1614495921087" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1614495921087">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1614388923855" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1614388923856">
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1614495921087" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1614495921088">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1614388923856" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1614388905582">
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1614495921088" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1614396512882">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614388905582" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1614388905581">
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614396512882" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1614396512881">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1614388905581" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1614388905581">
+    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1614396512881" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1614396512881">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1614388905581" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1614388905581">
+    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1614396512881" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1614396512881">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1614388905581" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1614396512881" />
     <state x="530" y="148" key="RollbackChangesDialog" timestamp="1614362323812">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
@@ -181,14 +204,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/PathSum.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/PathSum.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/ExSheetColmnNumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
