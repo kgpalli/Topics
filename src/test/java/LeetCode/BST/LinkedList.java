@@ -14,6 +14,16 @@ package LeetCode.BST;
          /* 4. Move the head to point to new Node */
          head = new_node;
      }
+     public void printList()
+     {
+         ListNode tnode = head;
+         while (tnode != null) {
+             System.out.print(tnode.val + " ");
+             tnode = tnode.next;
+         }
+     }
+
+
      public String toString(){
          return String.valueOf(head.val);
      }
