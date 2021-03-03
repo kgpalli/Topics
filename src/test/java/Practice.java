@@ -1,46 +1,34 @@
-import javax.swing.*;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+
+
 
 public class Practice {
 
-    public static int singleNumber(int[] nums) {
 
 
-      if(nums.length ==1){
-          return nums[0];
-      }
-        int i=0;
-        int j=i+1;
+    public static boolean isHappy(int n) {
 
-        while(i<nums.length){
+       while(n > 0){
+           int sum = 0;
+           int current = n;
 
-            int single_digit = 0;
-            while(j<nums.length-1){
-                if(nums[i]==nums[j])
-                {single_digit++;
-                break;}
-                j++;
-            }
+           while(current != 1){
+               sum = (current % 10) * (current % 10);
+               current /= 10;
+           }
 
-            if(single_digit==0)
-            {
-                return nums[i];
-            }
-            i++;
+           n = sum;
+          return true;
+       }
 
-        }
 
-       return 0;
+       return false;
     }
 
 
 
     public static void main(String[]args){
-  String s = "abc";
 
+       System.out.println(isHappy(19));
 
     }
 
