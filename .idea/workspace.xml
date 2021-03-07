@@ -61,7 +61,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.QuickSort2">
+  <component name="RunManager" selected="Application.TheRectangle">
     <configuration name="NimGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.easy1_30.NimGame" />
       <module name="Topics" />
@@ -101,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestWordDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easy1_30.ShortestWordDistance" />
+    <configuration name="TheRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easy1_30.TheRectangle" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheRectangle" />
         <item itemvalue="Application.QuickSort2" />
         <item itemvalue="Application.ShortestCharacterDistance" />
         <item itemvalue="Application.NimGame" />
         <item itemvalue="Application.WordPattern" />
-        <item itemvalue="Application.ShortestWordDistance" />
       </list>
     </recent_temporary>
   </component>
