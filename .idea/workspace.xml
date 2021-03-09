@@ -22,20 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b99ddb5c-5299-451a-8d1c-a3d372bc9761" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/PerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/TesCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/UniqueOccurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/ValidWordSqure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/ColumnTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/ColumnTitle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/ExSheetColmnNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/ExSheetColmnNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/easy1_30/ColumnTitle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/easy1_30/ColumnTitle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/easy1_30/ExSheetColmnNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/easy1_30/ExSheetColmnNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/easy1_30/ValidPalindromeII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/easy1_30/ValidPalindromeII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Practice.class" afterDir="false" />
-    </list>
+    <list default="true" id="b99ddb5c-5299-451a-8d1c-a3d372bc9761" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -485,16 +472,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/Practice.java</url>
           <line>21</line>
           <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/TesCode.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/TesCode.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/RemoveListElements.java</url>
