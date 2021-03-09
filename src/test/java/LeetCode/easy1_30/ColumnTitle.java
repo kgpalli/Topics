@@ -2,6 +2,8 @@ package LeetCode.easy1_30;
 
 public class ColumnTitle {
 
+    // // Input = 27  Output = AA, Input = 28 Output = AB
+
     public static String convertToTitle(int n) {
 
         StringBuilder sb = new StringBuilder();
