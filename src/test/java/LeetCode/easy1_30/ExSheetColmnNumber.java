@@ -2,6 +2,8 @@ package LeetCode.easy1_30;
 
 public class ExSheetColmnNumber {
 
+    // Input = AA  Output = 27, Input = AB Output = 28
+
     public static int titleToNumber(String s) {
 
 
