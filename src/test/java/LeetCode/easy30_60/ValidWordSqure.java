@@ -3,7 +3,7 @@ package LeetCode.easy30_60;
 import java.util.ArrayList;
 import java.util.List;
 
-// ["abcd", "bnrt",   "crm",   "dt" ]
+//  Input = ["abcd", "bnrt", "crm", "dt" ] Output = "true
 
 public class ValidWordSqure {
 
@@ -28,10 +28,10 @@ public class ValidWordSqure {
 
         List<String> words =new ArrayList<>();
 
-        words.add("abcd");
-        words.add("bnrt");
-        words.add("crmy");
-        words.add("dtye");
+        words.add("ball");
+        words.add("area");
+        words.add("read");
+        words.add("lady");
 
         System.out.println(validWordSquare(words));
     }
