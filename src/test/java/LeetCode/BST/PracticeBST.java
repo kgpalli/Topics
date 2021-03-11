@@ -3,53 +3,51 @@ package LeetCode.BST;
 import java.util.Stack;
 
 public class PracticeBST {
+     Node root;
 
-
-    public static ListNode removeElements(ListNode head, int val) {
-
-
-
-        ListNode dummy = new ListNode(0);
-        head.next = dummy;
-
-        ListNode p = dummy;
-
-        while(p != null){
-            if(p.next.val == val){
-                p.next = head;
-                p.next = p.next.next;
-            }else{
-
-            }
-        }
-
-
-
-        return dummy.next;
+    PracticeBST(){
+        root=null;
     }
 
+    void insert(int key){
+        root = insertRec(root,key);
+    }
 
+    Node insertRec(Node root, int val){
+        if(root == null){
+            root = new Node(val);
+            return root;
+        }
+        if(val<root.val){
+            root.left = insertRec(root.left,val);
+        }else if(val>root.val){
+            root.right = insertRec(root.right,val);
+        }
 
+        return root;
+    }
+   void printTree(){
+       inorderRec(root);
+
+}
+    void inorderRec(Node root){
+        if(root != null){
+            inorderRec(root.left) ;
+            System.out.println(root.val);
+            inorderRec(root.right);
+        }
+
+    }
     public static void main(String[]args){
-        LinkedList rmlist = new LinkedList();
 
-        rmlist.push(1);
-        rmlist.push(2);
-        rmlist.push(6);
-        rmlist.push(3);
-        rmlist.push(4);
-        rmlist.push(6);
-        rmlist.push(6);
+        PracticeBST bst = new PracticeBST();
+        bst.insert(1);
+        bst.insert(3);
+        bst.insert(5);
+
+        bst.printTree();
 
 
-        rmlist.printList();
 
-
-        removeElements(rmlist.head, 6);
-        System.out.println();
-
-        System.out.println("Print after removing duplicate" );
-
-        rmlist.printList();
     }
 }
