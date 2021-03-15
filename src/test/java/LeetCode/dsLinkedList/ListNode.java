@@ -1,4 +1,4 @@
-package LeetCode.BST;
+package LeetCode.dsLinkedList;
 
 public class ListNode {
     int val;
