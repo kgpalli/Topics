@@ -1,6 +1,5 @@
-package LeetCode.BST;
+package LeetCode.dsLinkedList;
 
-import java.util.List;
 import java.util.Stack;
 
 public class ReverseLinkedList {
