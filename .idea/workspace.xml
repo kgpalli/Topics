@@ -23,11 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b99ddb5c-5299-451a-8d1c-a3d372bc9761" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/ArrayPartition_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/ArrayTransformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/AssignCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/AvgLevelsBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/AverageSalExMinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/dsLinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/dsLinkedList/LinkedList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +61,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.AssignCookies">
-    <configuration name="ArrayPartition_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.ArrayPartition_1" />
+  <component name="RunManager" selected="Application.AvgLevelsBST">
+    <configuration name="AddArrayFormToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.AddArrayFormToInteger" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.dsLinkedList.LinkedList" />
+    <configuration name="AverageSalExMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.AverageSalExMinMax" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.dsLinkedList.*" />
+          <option name="PATTERN" value="LeetCode.easy30_60.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveListElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.dsLinkedList.RemoveListElements" />
+    <configuration name="AvgLevelsBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.AvgLevelsBST" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.dsLinkedList.*" />
+          <option name="PATTERN" value="LeetCode.BST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AvgLevelsBST" />
+        <item itemvalue="Application.AverageSalExMinMax" />
+        <item itemvalue="Application.AddArrayFormToInteger" />
         <item itemvalue="Application.AssignCookies" />
         <item itemvalue="Application.ArrayTransformation" />
-        <item itemvalue="Application.ArrayPartition_1" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.RemoveListElements" />
       </list>
     </recent_temporary>
   </component>
@@ -171,85 +169,85 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="480" y="322" width="479" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.808@0.23.1440.808" timestamp="1615673955265" />
-    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1615861591487">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1615942996574">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="483" y="130" key="#xdebugger.evaluate/0.23.1440.798@0.23.1440.798" timestamp="1614923220183" />
     <state x="483" y="130" key="#xdebugger.evaluate/0.23.1440.801@0.23.1440.801" timestamp="1614916402043" />
-    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.804@0.23.1440.804" timestamp="1615345101399" />
+    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.804@0.23.1440.804" timestamp="1615942996574" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1615861591487" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1615680727213" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.811@0.23.1440.811" timestamp="1614388780103" />
-    <state width="1358" height="328" key="GridCell.Tab.0.bottom" timestamp="1615872485602">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1615943671457">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1614923922938" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1615242247826" />
-    <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1615536445586" />
-    <state width="1358" height="328" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1615872485602" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1615943671457" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1615877286358" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1615683026294" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614496478555" />
-    <state width="1358" height="328" key="GridCell.Tab.0.center" timestamp="1615872485602">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1615943671456">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1614923922938" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1615242247825" />
-    <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1615536445585" />
-    <state width="1358" height="328" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1615872485602" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1615943671456" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1615877286357" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1615683026293" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1614496478554" />
-    <state width="1358" height="328" key="GridCell.Tab.0.left" timestamp="1615872485601">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1615943671456">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1614923922937" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1615242247825" />
-    <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1615536445584" />
-    <state width="1358" height="328" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1615872485601" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1615943671456" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1615877286357" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1615683026292" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1614496478553" />
-    <state width="1358" height="328" key="GridCell.Tab.0.right" timestamp="1615872485602">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1615943671456">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1614923922938" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1615242247825" />
-    <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1615536445586" />
-    <state width="1358" height="328" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1615872485602" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1615943671456" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1615877286358" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1615683026293" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1614496478555" />
-    <state width="1358" height="328" key="GridCell.Tab.1.bottom" timestamp="1615872485603">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1358" height="328" key="GridCell.Tab.1.bottom" timestamp="1615943524454">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1614923922940" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1614916233010" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1615536445589" />
-    <state width="1358" height="328" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1615872485603" />
+    <state width="1358" height="328" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1615943524454" />
+    <state width="1358" height="328" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1615877286350" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1615680863111" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1614396512882" />
-    <state width="1358" height="328" key="GridCell.Tab.1.center" timestamp="1615872485603">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1358" height="328" key="GridCell.Tab.1.center" timestamp="1615943524453">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1614923922939" />
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1614916233009" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1615536445588" />
-    <state width="1358" height="328" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1615872485603" />
+    <state width="1358" height="328" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1615943524453" />
+    <state width="1358" height="328" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1615877286349" />
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1615680863111" />
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1614396512881" />
-    <state width="1358" height="328" key="GridCell.Tab.1.left" timestamp="1615872485603">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1358" height="328" key="GridCell.Tab.1.left" timestamp="1615943524453">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1614923922939" />
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1614916233009" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1615536445587" />
-    <state width="1358" height="328" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1615872485603" />
+    <state width="1358" height="328" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1615943524453" />
+    <state width="1358" height="328" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1615877286349" />
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1615680863110" />
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1614396512881" />
-    <state width="1358" height="328" key="GridCell.Tab.1.right" timestamp="1615872485603">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1358" height="328" key="GridCell.Tab.1.right" timestamp="1615943524453">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1614923922939" />
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1614916233010" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1615536445588" />
-    <state width="1358" height="328" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1615872485603" />
+    <state width="1358" height="328" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1615943524453" />
+    <state width="1358" height="328" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1615877286350" />
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1615680863111" />
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1614396512881" />
     <state x="530" y="148" key="RollbackChangesDialog" timestamp="1614362323812">
@@ -565,9 +563,9 @@
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/AssignCookies.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="132" />
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/AvgLevelsBST.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="134" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
