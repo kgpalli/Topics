@@ -1,6 +1,17 @@
 package LeetCode.easy1_30;
 
 import java.util.HashSet;
+/**
+ * Those numbers for which this process ends in 1 are happy.
+ * 	Input: n = 19
+ * Output: true
+ * Explanation:
+ * 1*1 + 9*9 = 82
+ * 8*8 + 2*2 = 68
+ * 6*6 + 8*8 = 100
+ * 1*1 + 0*8 + 02 = 1
+ *
+ * */
 
 public class HappyNumber {
 
