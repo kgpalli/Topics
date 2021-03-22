@@ -1,5 +1,12 @@
 package LeetCode.easy30_60;
 
+/**
+ * 	Input: n = 20
+ * Output: 96
+ * Explanation: After the 20th day,
+ * the total is (1 + 2 + 3 + 4 + 5 + 6 + 7) + (2 + 3 + 4 + 5 + 6 + 7 + 8) + (3 + 4 + 5 + 6 + 7 + 8) = 96.
+ * */
+
 public class MoneyInLeetCodeBank {
 
     public static int totalMoney(int n) {
@@ -14,18 +21,13 @@ public class MoneyInLeetCodeBank {
         if(n>7){
             extraDays = n % 7;
         }
-        System.out.println(fullWeeks + " =  full weeks ");
-        System.out.println(extraDays + " =  extraDays ");
-
-
         money = fullWeeks * 28;
 
-        System.out.println(money + " =  Money ");
         for(int i=0;i<fullWeeks;i++){
             constantMoney = constantMoney + (7*i);
         }
 
-        for(int i=0;i<=extraDays;i++){
+        for(int i=1;i<=extraDays;i++){
             money = money + i + fullWeeks;
         }
 
@@ -35,7 +37,7 @@ public class MoneyInLeetCodeBank {
 
     public static void main(String[]args){
 
-     int n = 20;
+     int n = 10;
      System.out.println(totalMoney(n));
 
 
