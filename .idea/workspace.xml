@@ -23,15 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/BinaryTreePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/BinaryTreeTilit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/BinarySerach_Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/ArrayIsSortedAndRotated.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/BinaryAlternatingBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/BinaryAlternatingBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/BinaryPrefixDivisibleBy5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/BinaryPrefixDivisibleBy5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/easy30_60/BinaryAlternatingBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/easy30_60/BinaryAlternatingBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/easy30_60/BinaryPrefixDivisibleBy5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/easy30_60/BinaryPrefixDivisibleBy5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +49,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeTilit">
-    <configuration name="BinaryPrefixDivisibleBy5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.BinaryPrefixDivisibleBy5" />
+  <component name="RunManager" selected="Application.ArrayIsSortedAndRotated">
+    <configuration name="ArrayIsSortedAndRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.ArrayIsSortedAndRotated" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayIsSortedAndRotated" />
         <item itemvalue="Application.BinaryTreeTilit" />
         <item itemvalue="Application.BinaryTreePaths" />
         <item itemvalue="Application.BinarySerach_Recursive" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.BinaryPrefixDivisibleBy5" />
       </list>
     </recent_temporary>
   </component>
@@ -160,22 +153,22 @@
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1616560076689" />
-    <state width="1358" height="238" key="GridCell.Tab.0.bottom" timestamp="1616562127690">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1616565001749">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1616562127690" />
-    <state width="1358" height="238" key="GridCell.Tab.0.center" timestamp="1616562127689">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1616565001749" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1616565001748">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1616562127689" />
-    <state width="1358" height="238" key="GridCell.Tab.0.left" timestamp="1616562127689">
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1616565001748" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1616565001748">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1616562127689" />
-    <state width="1358" height="238" key="GridCell.Tab.0.right" timestamp="1616562127689">
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1616565001748" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1616565001749">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1616562127689" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1616565001749" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1616562127691">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
