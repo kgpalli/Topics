@@ -23,8 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/ArrayIsSortedAndRotated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/TwoStringsEqual_1662.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/MajorityElementSortedArray_1150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/NAndDouble_1346.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/PrefixOfWord_1455.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy1_30/MajorityElement_169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/ArrayIsSortedAndRotated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/ArrayIsSortedAndRotated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/easy1_30/MajorityElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/easy30_60/ArrayIsSortedAndRotated.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/easy30_60/ArrayIsSortedAndRotated.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +56,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ArrayIsSortedAndRotated">
+  <component name="RunManager" selected="Application.NAndDouble_1346">
     <configuration name="ArrayIsSortedAndRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.ArrayIsSortedAndRotated" />
       <module name="Topics" />
@@ -63,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.BinarySearch" />
+    <configuration name="MajorityElementSortedArray_1150" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.MajorityElementSortedArray_1150" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySerach_Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.BinarySerach_Recursive" />
+    <configuration name="NAndDouble_1346" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.NAndDouble_1346" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryTreePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.BinaryTreePaths" />
+    <configuration name="PrefixOfWord_1455" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.PrefixOfWord_1455" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.BST.*" />
+          <option name="PATTERN" value="LeetCode.easy30_60.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryTreeTilit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.BinaryTreeTilit" />
+    <configuration name="TwoStringsEqual_1662" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easy1_30.TwoStringsEqual_1662" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.BST.*" />
+          <option name="PATTERN" value="LeetCode.easy1_30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NAndDouble_1346" />
+        <item itemvalue="Application.TwoStringsEqual_1662" />
+        <item itemvalue="Application.MajorityElementSortedArray_1150" />
+        <item itemvalue="Application.PrefixOfWord_1455" />
         <item itemvalue="Application.ArrayIsSortedAndRotated" />
-        <item itemvalue="Application.BinaryTreeTilit" />
-        <item itemvalue="Application.BinaryTreePaths" />
-        <item itemvalue="Application.BinarySerach_Recursive" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -149,42 +156,42 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1616560076689">
+    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1616692991383">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1616560076689" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1616565001749">
+    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1616692991383" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1616717626038">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1616565001749" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1616565001748">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1616717626038" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1616717626037">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1616565001748" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1616565001748">
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1616717626037" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1616717626037">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1616565001748" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1616565001749">
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1616717626037" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1616717626037">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1616565001749" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1616562127691">
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1616717626037" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1616716160185">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1616562127691" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1616562127690">
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1616716160185" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1616716160184">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1616562127690" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1616562127690">
+    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1616716160184" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1616716160184">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1616562127690" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1616562127691">
+    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1616716160184" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1616716160184">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1616562127691" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1616716160184" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -215,24 +222,32 @@
           <option name="timeStamp" value="171" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/BinarySearch.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="172" />
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/ArrayIsSortedAndRotated.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="176" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/BinarySearch.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="173" />
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/ArrayIsSortedAndRotated.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="177" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/BinarySearch.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="174" />
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/ArrayIsSortedAndRotated.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/BinarySearch.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="175" />
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/NAndDouble_1346.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/NAndDouble_1346.java</url>
+          <line>28</line>
+          <properties class="LeetCode.easy30_60.NAndDouble_1346" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="182" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
