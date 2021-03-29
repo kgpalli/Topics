@@ -1,4 +1,12 @@
 package LeetCode.easy30_60;
+/**
+ * n = 5
+ *The coins can form the following rows:
+ * ¤
+ * ¤ ¤
+ * ¤ ¤
+ *  Because the 3rd row is incomplete, we return 2.
+ * */
 
 public class ArrangingCoins {
 

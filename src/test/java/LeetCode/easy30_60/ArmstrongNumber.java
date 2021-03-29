@@ -2,7 +2,7 @@ package LeetCode.easy30_60;
 
 /**
  * 	62. Armstrong Number :  if we add qube of any number and if it's equal to the number itself that is Armstrong number
- * Ex : 153   => 1*1*1 + 5*5*5 + 3*3*3 => 153 -> true
+ * Ex : 153   => 1*1*1 = 1 + 5*5*5 = 125 + 3*3*3 = 27  => 153 -> true
  *   input = 25 , qube of 2, 5 = 133 -> false
  * */
 
