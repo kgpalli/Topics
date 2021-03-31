@@ -23,9 +23,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/BitwiseComplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/ConsecutiveCharacters_1446.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/StringFromBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/dsLinkedList/BinaryToListInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/IntToSumTwoNoZeroInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/NumberToHexadecimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/dsLinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/dsLinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/dsLinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/dsLinkedList/LinkedList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +54,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ConsecutiveCharacters_1446">
-    <configuration name="AddArrayFormToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.AddArrayFormToInteger" />
+  <component name="RunManager" selected="Application.NumberToHexadecimal">
+    <configuration name="BinaryToListInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.dsLinkedList.BinaryToListInteger" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.easy30_60.*" />
+          <option name="PATTERN" value="LeetCode.dsLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreAlmostEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easyGT60.AreAlmostEqual" />
+    <configuration name="IntToSumTwoNoZeroInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easyGT60.IntToSumTwoNoZeroInt" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +81,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BitwiseComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easyGT60.BitwiseComplement" />
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.dsLinkedList.LinkedList" />
+      <module name="Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.dsLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberToHexadecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easyGT60.NumberToHexadecimal" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -90,25 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckOnesSegmenC_1784" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easyGT60.CheckOnesSegmenC_1784" />
+    <configuration name="StringFromBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.StringFromBinaryTree" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.easyGT60.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConsecutiveCharacters_1446" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easyGT60.ConsecutiveCharacters_1446" />
-      <module name="Topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.easyGT60.*" />
+          <option name="PATTERN" value="LeetCode.BST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConsecutiveCharacters_1446" />
-        <item itemvalue="Application.BitwiseComplement" />
-        <item itemvalue="Application.AreAlmostEqual" />
-        <item itemvalue="Application.CheckOnesSegmenC_1784" />
-        <item itemvalue="Application.AddArrayFormToInteger" />
+        <item itemvalue="Application.NumberToHexadecimal" />
+        <item itemvalue="Application.IntToSumTwoNoZeroInt" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.BinaryToListInteger" />
+        <item itemvalue="Application.StringFromBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -150,51 +154,51 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1617084269233">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1617169187933">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1616692991383" />
-    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1617084269233" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1617087192038">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1617169187933" />
+    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1617144995549" />
+    <state width="1358" height="238" key="GridCell.Tab.0.bottom" timestamp="1617169191209">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1616820624564" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617087192038" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1617087192037">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1617169191209" />
+    <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617145000779" />
+    <state width="1358" height="238" key="GridCell.Tab.0.center" timestamp="1617169191208">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1616820624563" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1617087192037" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1617087192036">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1617169191208" />
+    <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1617145000778" />
+    <state width="1358" height="238" key="GridCell.Tab.0.left" timestamp="1617169191208">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1616820624563" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1617087192036" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1617087192038">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1617169191208" />
+    <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1617145000777" />
+    <state width="1358" height="238" key="GridCell.Tab.0.right" timestamp="1617169191208">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1616820624564" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1617087192038" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1617086745585">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1617169191208" />
+    <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1617145000778" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1617169191210">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1616800995583" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617086745585" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1617086745584">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1617169191210" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617145000780" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1617169191209">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1616800995583" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1617086745584" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1617086745584">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1617169191209" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1617145000779" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1617169191209">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1616800995582" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1617086745584" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1617086745584">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1617169191209" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1617145000779" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1617169191209">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1616800995583" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1617086745584" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1617169191209" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1617145000780" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -293,6 +297,51 @@
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/AreAlmostEqual.java</url>
           <line>39</line>
           <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/StringFromBinaryTree.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/StringFromBinaryTree.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/dsLinkedList/LinkedList.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/dsLinkedList/LinkedList.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/dsLinkedList/LinkedList.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/NumberToHexadecimal.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/NumberToHexadecimal.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/NumberToHexadecimal.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/NumberToHexadecimal.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="236" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/NAndDouble_1346.java</url>
