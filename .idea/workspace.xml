@@ -23,13 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/CountLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/CountMatches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/CountNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/CountOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/DeleteColumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/SufficTrie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/easyGT60/CountItemMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/easyGT60/CountItemMatch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,25 +154,25 @@
     </state>
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1617343772267" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1617144995549" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1617344290756">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1617429929309">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1617344290756" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1617429929309" />
     <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617145000779" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1617344290755">
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1617429929307">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1617344290755" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1617429929307" />
     <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1617145000778" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1617344290755">
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1617429929306">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1617344290755" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1617429929306" />
     <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1617145000777" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1617344290756">
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1617429929308">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1617344290756" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1617429929308" />
     <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1617145000778" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1617343782174">
       <screen x="0" y="23" width="1440" height="806" />
@@ -369,27 +364,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/DeleteColumn.java</url>
-          <line>14</line>
+          <line>10</line>
           <option name="timeStamp" value="255" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/DeleteColumn.java</url>
-          <line>9</line>
+          <line>8</line>
           <option name="timeStamp" value="256" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/DeleteColumn.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="257" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/DeleteColumn.java</url>
-          <line>28</line>
+          <line>22</line>
           <option name="timeStamp" value="258" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/DeleteColumn.java</url>
-          <line>12</line>
+          <line>9</line>
           <option name="timeStamp" value="259" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
