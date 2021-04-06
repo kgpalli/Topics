@@ -27,22 +27,22 @@ public class DefuseTheBomb {
 
     public static int[] decrypt(int[] code, int k) {
         int[]arr = new int[code.length];
-        int len= code.length;
-        Stack<Integer> stack = new Stack<Integer>();
-
         if(k>0){
             int sumOfK = 0;
             for(int i=0;i<k;i++){
                 sumOfK += code[i];
             }
+
+            // WE  take total of k elements first, in second loop remove element element at current index and add value
+            // element which is missing
             for(int j=0;j<code.length;j++){
-                sumOfK -= arr[j];
-                sumOfK += arr[(j+k)%code.length];
-                 stack.push(sumOfK);
+                sumOfK -= code[j];
+                System.out.println(j+k);
+                sumOfK += code[(j+k)%code.length];
+                arr[j] = sumOfK;
             }
+
         }
-
-
         return arr;
     }
 
