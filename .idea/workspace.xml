@@ -23,12 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DecryptString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DefangIPAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/BST/SuffixTrie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DefuseTheBomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DefuseTheBomb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/med1_30/DefuseTheBomb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/med1_30/DefuseTheBomb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/med1_30/SufficTrie.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1qAbJDOYmeaOlX8RMD9q1IMOiYU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,21 +55,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.33448276" />
   </component>
-  <component name="RunManager" selected="Application.DecryptString">
-    <configuration name="ConsistantStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.ConsistantStrings" />
-      <module name="Topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.med1_30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SuffixTrie">
     <configuration name="DecryptString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.DecryptString" />
       <module name="Topics" />
@@ -119,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SuffixTrie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BST.SuffixTrie" />
+      <module name="Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.BST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuffixTrie" />
         <item itemvalue="Application.DecryptString" />
         <item itemvalue="Application.DefangIPAddress" />
         <item itemvalue="Application.DefuseTheBomb" />
         <item itemvalue="Application.DegreeOfAnArray" />
-        <item itemvalue="Application.ConsistantStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -153,60 +159,64 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1617669002945">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1618121540495">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.804@0.23.1440.804" timestamp="1617605464359" />
-    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1617343772267" />
+    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1618121540495" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1617669002945" />
-    <state width="1358" height="238" key="GridCell.Tab.0.bottom" timestamp="1617669025605">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.0.bottom" timestamp="1618121665406">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1617605483265" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1617429929309" />
-    <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617669025605" />
-    <state width="1358" height="238" key="GridCell.Tab.0.center" timestamp="1617669025604">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1618121665406" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617770518459" />
+    <state width="1358" height="238" key="GridCell.Tab.0.center" timestamp="1618121665406">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1617605483264" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1617429929307" />
-    <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1617669025604" />
-    <state width="1358" height="238" key="GridCell.Tab.0.left" timestamp="1617669025604">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1618121665406" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1617770518458" />
+    <state width="1358" height="238" key="GridCell.Tab.0.left" timestamp="1618121665405">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1617605483264" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1617429929306" />
-    <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1617669025604" />
-    <state width="1358" height="238" key="GridCell.Tab.0.right" timestamp="1617669025604">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1618121665405" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1617770518458" />
+    <state width="1358" height="238" key="GridCell.Tab.0.right" timestamp="1618121665406">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1617605483264" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1617429929308" />
-    <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1617669025604" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1617669025606">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1618121665406" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1617770518459" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1618121665407">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1617605483266" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1617343782174" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1618121665407" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617669025606" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1617669025605">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1618121665407">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1617605483266" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1617343782173" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1618121665407" />
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1617669025605" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1617669025605">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1618121665407">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1617605483265" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1617343782173" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1618121665407" />
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1617669025605" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1617669025605">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1618121665407">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1617605483266" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1617343782174" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1618121665407" />
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1617669025605" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1617893713204">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1617893713204" />
     <state x="385" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1617251412868">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
@@ -404,6 +414,41 @@
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DecryptString.java</url>
           <line>22</line>
           <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/SuffixTrie.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/SuffixTrie.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/SuffixTrie.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/SuffixTrie.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/SuffixTrie.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/SuffixTrie.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/BST/SuffixTrie.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="280" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/NAndDouble_1346.java</url>
