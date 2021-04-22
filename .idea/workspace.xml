@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/CreateTargetArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/SentanceIsPanagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.33448276" />
   </component>
-  <component name="RunManager" selected="Application.CreateTargetArray">
+  <component name="RunManager" selected="Application.SentanceIsPanagram">
     <configuration name="CreateTargetArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.CreateTargetArray" />
       <module name="Topics" />
@@ -112,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecompressRLElist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easyGT60.DecompressRLElist" />
+    <configuration name="SentanceIsPanagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.SentanceIsPanagram" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.easyGT60.*" />
+          <option name="PATTERN" value="LeetCode.med1_30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SentanceIsPanagram" />
         <item itemvalue="Application.CreateTargetArray" />
         <item itemvalue="Application.DIStringMatch" />
         <item itemvalue="Application.DayOfTheWeek" />
         <item itemvalue="Application.DayOfTheYear" />
-        <item itemvalue="Application.DecompressRLElist" />
       </list>
     </recent_temporary>
   </component>
@@ -459,6 +459,21 @@
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/DecompressRLElist.java</url>
           <line>39</line>
           <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/SentanceIsPanagram.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/SentanceIsPanagram.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/SentanceIsPanagram.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="289" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/NAndDouble_1346.java</url>
