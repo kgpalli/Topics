@@ -23,9 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DestinationCity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/OrderedStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/ContainsPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DetectCapitol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/med1_30/DestinationCity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/med1_30/DestinationCity.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.33448276" />
   </component>
-  <component name="RunManager" selected="Application.DestinationCity">
+  <component name="RunManager" selected="Application.ContainsPattern">
+    <configuration name="ContainsPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.ContainsPattern" />
+      <module name="Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.med1_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DestinationCity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.DestinationCity" />
       <module name="Topics" />
@@ -74,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.MyHashMap" />
+    <configuration name="DetectCapitol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.DetectCapitol" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -113,26 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentanceIsPanagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.SentanceIsPanagram" />
-      <module name="Topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.med1_30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContainsPattern" />
+        <item itemvalue="Application.DetectCapitol" />
         <item itemvalue="Application.DestinationCity" />
         <item itemvalue="Application.ParkingSystem" />
         <item itemvalue="Application.MyHashSet" />
-        <item itemvalue="Application.MyHashMap" />
-        <item itemvalue="Application.SentanceIsPanagram" />
       </list>
     </recent_temporary>
   </component>
@@ -160,59 +161,59 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1619332209796">
+    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1619410577172">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.804@0.23.1440.804" timestamp="1618186448170" />
-    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1619332209796" />
+    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1619410577172" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1617669002945" />
-    <state width="1358" height="238" key="GridCell.Tab.0.bottom" timestamp="1619332239393">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1619414787785">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1618555995261" />
-    <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1619332239393" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1619414787785" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617770518459" />
-    <state width="1358" height="238" key="GridCell.Tab.0.center" timestamp="1619332239392">
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1619414787785">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1618555995260" />
-    <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1619332239392" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1619414787785" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1617770518458" />
-    <state width="1358" height="238" key="GridCell.Tab.0.left" timestamp="1619332239392">
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1619414787784">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1618555995259" />
-    <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1619332239392" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1619414787784" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1617770518458" />
-    <state width="1358" height="238" key="GridCell.Tab.0.right" timestamp="1619332239393">
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1619414787785">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1618555995260" />
-    <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1619332239393" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1619414787785" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1617770518459" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1619332239394">
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1619410722140">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1618186537127" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1619332239394" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1619410722140" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617669025606" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1619332239394">
+    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1619410722140">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1618186537126" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1619332239394" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1619410722140" />
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1617669025605" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1619332239393">
+    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1619410722139">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1618186537126" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1619332239393" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1619410722139" />
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1617669025605" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1619332239394">
+    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1619410722140">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1618186537126" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1619332239394" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1619410722140" />
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1617669025605" />
     <state x="208" y="23" key="SettingsEditor" timestamp="1617893713204">
       <screen x="0" y="23" width="1440" height="811" />
@@ -490,26 +491,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/MyHashMap.java</url>
           <line>42</line>
           <option name="timeStamp" value="292" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DestinationCity.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="293" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DestinationCity.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="294" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DestinationCity.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="295" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/DestinationCity.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="296" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/NAndDouble_1346.java</url>
