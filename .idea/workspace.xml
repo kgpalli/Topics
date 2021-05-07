@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/ConvertToHexa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/ThirdMaximumNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.33448276" />
   </component>
-  <component name="RunManager" selected="Application.ConvertToHexa">
+  <component name="RunManager" selected="Application.ThirdMaximumNum">
     <configuration name="ContainsPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.ContainsPattern" />
       <module name="Topics" />
@@ -112,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParkingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.ParkingSystem" />
+    <configuration name="ThirdMaximumNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.ThirdMaximumNum" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThirdMaximumNum" />
         <item itemvalue="Application.ConvertToHexa" />
         <item itemvalue="Application.ContainsPattern" />
         <item itemvalue="Application.DetectCapitol" />
         <item itemvalue="Application.DestinationCity" />
-        <item itemvalue="Application.ParkingSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -165,29 +165,29 @@
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.804@0.23.1440.804" timestamp="1618186448170" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1619410577172" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1617669002945" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1619415951942">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1620366706873">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1618555995261" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1619415951942" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1620366706873" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617770518459" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1619415951940">
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1620366706872">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1618555995260" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1619415951940" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1620366706872" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1617770518458" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1619415951940">
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1620366706872">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1618555995259" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1619415951940" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1620366706872" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1617770518458" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1619415951941">
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1620366706873">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1618555995260" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1619415951941" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1620366706873" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1617770518459" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1619410722140">
       <screen x="0" y="23" width="1440" height="806" />
