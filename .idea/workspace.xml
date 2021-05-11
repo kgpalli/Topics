@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/FindDifference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.33448276" />
   </component>
-  <component name="RunManager" selected="Application.LongestPalindrome">
+  <component name="RunManager" selected="Application.FindDifference">
     <configuration name="ContainsPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.ContainsPattern" />
       <module name="Topics" />
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetectCapitol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.DetectCapitol" />
+    <configuration name="FindDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.FindDifference" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindDifference" />
         <item itemvalue="Application.LongestPalindrome" />
         <item itemvalue="Application.ThirdMaximumNum" />
         <item itemvalue="Application.ConvertToHexa" />
         <item itemvalue="Application.ContainsPattern" />
-        <item itemvalue="Application.DetectCapitol" />
       </list>
     </recent_temporary>
   </component>
@@ -165,28 +165,28 @@
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.804@0.23.1440.804" timestamp="1620626312252" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1619410577172" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1617669002945" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1620627395743">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1620713788753">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1620627395743" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1620713788753" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1620369000357" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617770518459" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1620627395742">
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1620713788752">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1620627395742" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1620713788752" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1620369000357" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1617770518458" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1620627395742">
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1620713788751">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1620627395742" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1620713788751" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1620369000356" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1617770518458" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1620627395742">
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1620713788753">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1620627395742" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1620713788753" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1620369000357" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1617770518459" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1620626990484">
@@ -489,11 +489,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/MyHashMap.java</url>
           <line>42</line>
           <option name="timeStamp" value="292" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/LongestPalindrome.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="296" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/NAndDouble_1346.java</url>
