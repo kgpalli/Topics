@@ -1,6 +1,6 @@
 package LeetCode.easy30_60;
 
-import LeetCode.BST.Node;
+
 
 import java.util.Arrays;
 import java.util.LinkedList;
