@@ -23,8 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/ReverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/FindDisappearedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/FirstUniqChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/easyGT60/ReverseWordsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/easyGT60/ReverseWordsInString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +62,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.33448276" />
   </component>
-  <component name="RunManager" selected="Application.ReverseWordsInString">
-    <configuration name="CountSegments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.CountSegments" />
-      <module name="Topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.med1_30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FirstUniqChar">
     <configuration name="DistributeCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.DistributeCandies" />
       <module name="Topics" />
@@ -87,12 +76,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinumWaitingTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easy30_60.MinumWaitingTime" />
+    <configuration name="FindDisappearedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.FindDisappearedNumbers" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.easy30_60.*" />
+          <option name="PATTERN" value="LeetCode.med1_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstUniqChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.FirstUniqChar" />
+      <module name="Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.med1_30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstUniqChar" />
+        <item itemvalue="Application.FindDisappearedNumbers" />
         <item itemvalue="Application.ReverseWordsInString" />
         <item itemvalue="Application.DistributeCandies" />
         <item itemvalue="Application.RepeatedSubstringPattern" />
-        <item itemvalue="Application.CountSegments" />
-        <item itemvalue="Application.MinumWaitingTime" />
       </list>
     </recent_temporary>
   </component>
@@ -160,59 +162,59 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1620626312252">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="483" y="131" key="#xdebugger.evaluate" timestamp="1622614128846">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.804@0.23.1440.804" timestamp="1620626312252" />
-    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1619410577172" />
+    <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1622614128846" />
     <state x="483" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1617669002945" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1622522487026">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1622615239575">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1621488111096" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1622522487026" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1622615239575" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617770518459" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1622522487025">
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1622615239574">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1621488111095" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1622522487025" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1622615239574" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1617770518458" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1622522487025">
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1622615239573">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1621488111094" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1622522487025" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1622615239573" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1617770518458" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1622522487026">
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1622615239575">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1621488111096" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1622522487026" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1622615239575" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1617770518459" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1622522227060">
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1622615110055">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1621487846911" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1622522227060" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1622615110055" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1617669025606" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1622522227059">
+    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1622615110055">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1621487846910" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1622522227059" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1622615110055" />
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1617669025605" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1622522227059">
+    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1622615110055">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1621487846910" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1622522227059" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1622615110055" />
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1617669025605" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1622522227060">
+    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1622615110055">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1621487846910" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1622522227060" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1622615110055" />
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1617669025605" />
     <state x="208" y="23" key="SettingsEditor" timestamp="1617893713204">
       <screen x="0" y="23" width="1440" height="811" />
@@ -508,23 +510,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/ReverseWordsInString.java</url>
-          <line>17</line>
+          <line>29</line>
           <option name="timeStamp" value="301" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/ReverseWordsInString.java</url>
-          <line>12</line>
+          <line>24</line>
           <option name="timeStamp" value="302" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/ReverseWordsInString.java</url>
-          <line>13</line>
+          <line>25</line>
           <option name="timeStamp" value="303" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/ReverseWordsInString.java</url>
-          <line>26</line>
+          <line>38</line>
           <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/FindDisappearedNumbers.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="308" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/easy30_60/NAndDouble_1346.java</url>
