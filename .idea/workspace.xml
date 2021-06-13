@@ -23,10 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2211e94-5fe6-4f63-9563-02dfe662fb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/FindLUSlength1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/MakeEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/easyGT60/ReverseStrII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/easyGT60/ReverseStrII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/MakeEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/easyGT60/MakeEqual.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.33448276" />
   </component>
-  <component name="RunManager" selected="Application.FindLUSlength1">
+  <component name="RunManager" selected="Application.MakeEqual">
     <configuration name="CheckPerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.easyGT60.CheckPerfectNumber" />
       <module name="Topics" />
@@ -102,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMoves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.easyGT60.MinMoves" />
+    <configuration name="MakeEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.easyGT60.MakeEqual" />
       <module name="Topics" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeEqual" />
         <item itemvalue="Application.FindLUSlength1" />
         <item itemvalue="Application.ReverseStrII" />
         <item itemvalue="Application.Fib" />
         <item itemvalue="Application.CheckPerfectNumber" />
-        <item itemvalue="Application.MinMoves" />
       </list>
     </recent_temporary>
   </component>

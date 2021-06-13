@@ -24,18 +24,23 @@ public class MakeEqual {
 
 
     public static boolean makeEqual(String[] words) {
-
+             int len = words.length;
         Map<Character,Integer> map = new HashMap<>();
 
-        for(int i=0;i<words.length;i++){
-            for(int j=0;j<words[i].length();j++){
-
-                map.put(words[i].charAt(j),map.getOrDefault())
+        for (String word : words) {
+            for (int j = 0; j < word.length(); j++) {
+                map.put(word.charAt(j), map.getOrDefault(word.charAt(j), 0)+1);
             }
         }
 
+        for(Map.Entry<Character,Integer>entry : map.entrySet()){
+            int count=entry.getValue();
+            if(count%len != 0){
+                return false;
+            }
 
-                return true;
+        }
+        return true;
 
     }
 
