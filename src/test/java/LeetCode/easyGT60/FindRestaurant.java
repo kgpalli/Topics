@@ -21,7 +21,6 @@ public class FindRestaurant {
 
            }
         }
-
         for(Map.Entry<String,Integer> entry : map1.entrySet()){
 
             if(minIndex == entry.getValue()){
