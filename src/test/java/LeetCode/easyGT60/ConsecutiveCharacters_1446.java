@@ -34,7 +34,7 @@ public class ConsecutiveCharacters_1446 {
     }
 
     public static void main(String[]args){
-        String s="ccbccbb";
+        String s="abbcccddddeeeeedcba";
 
      System.out.println(maxPower(s));
 
