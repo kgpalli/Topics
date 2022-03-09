@@ -1,7 +1,6 @@
-import java.util.HashMap;
-import java.util.Map;
+package LeetCode.easy30_60;
 
-public class Practice {
+public class PowerOfThree {
 
     public static boolean isPowerOfThree(int n) {
 
@@ -16,13 +15,12 @@ public class Practice {
 
         return false;
     }
+
     public static void main (String[]args) {
 
-     int n=0;
+        int n=0;
 
-     System.out.println(isPowerOfThree(n));
+        System.out.println(isPowerOfThree(n));
     }
 
-    }
-
-
+}

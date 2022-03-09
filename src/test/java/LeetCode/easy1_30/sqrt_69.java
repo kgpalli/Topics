@@ -39,6 +39,5 @@ public class sqrt_69 {
 
     int num=3;
 
-    System.out.println(mySqrt(num));
     }
 }

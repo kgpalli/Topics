@@ -22,7 +22,7 @@ public class PalindromePermutation {
 
     public static void main(String[]args){
 
-    System.out.println(canPermutePalindrome("malayalam"));
+    System.out.println(canPermutePalindrome("malayalamaaaa"));
 
     }
 }
