@@ -4,24 +4,31 @@ import java.util.Map;
 
 public class Practice {
 
-    public static boolean isPowerOfThree(int n) {
+    public static boolean isPerfectSquare(int num) {
 
-        int sum=1;
-        while(sum<n){
-            sum *= 3;
-            if(sum==n){
+        if(num<2) return true;
+        int start = 2;
+        int end = num/2;
+
+        while(start<=end){
+            int mid = start + (end-start)/2;
+            if(mid * mid == num){
                 return true;
-
+            }else if ( mid * mid > num){
+                end = mid-1;
+            }else{
+                start = mid+1;
             }
         }
+
 
         return false;
     }
     public static void main (String[]args) {
 
-     int n=0;
+     int n=14;
 
-     System.out.println(isPowerOfThree(n));
+     System.out.println(isPerfectSquare(n));
     }
 
     }
